@@ -4,7 +4,20 @@ layout: default
 
 {::options parse_block_html="true" /}
 
-The traditional वेदान्त syllabus:
+# vedānta
+
+The traditional study of vedānta includes a study of:
+
+1. samskr̥it literature and vyākaraṇa
+2. tarka, mīmāmsā and pramāṇa
+3. vedānta siddhānta
+4. prasthāna traya (upaniṣhads, gītā, brahma sūtras)
+5. variations (bhāmatī, vivaraṇa prameya saṅgraha)
+6. advanced texts (advaita siddhi, khaṇḍana khaṇḍa khādya, chitsukhī)
+
+The full traditional syllabus is given below:
+
+## पाठ्यक्रमः (प्रत्ययनम्)
 
 1. तर्क सङ्ग्रह दीपिका
 2. न्याय सिद्धन्त मुक्तावली
