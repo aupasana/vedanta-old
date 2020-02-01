@@ -4,19 +4,19 @@ layout: default
 
 {::options parse_block_html="true" /}
 
-The traditional vedanta syllabus:
+The traditional वेदान्त syllabus:
 
-1. tarka sangraha dipika
-2. muktavali
-3. nyaya prakasha, vedanta paribhasha
-4. siddhanta lesa sangraha
-5. isha, kena, katha, prashna, mundaka upanishads
-6. mandukya, taittiriya upanishads
-7. chandogya upanishad (6th adhyaya), brihadaranyaka (3rd adhyaya)
-8. bhagavad gita
-9. sutra bhashyam
-10. sutra bhashyam
-11. advaita siddhi (1st pariccheda)
-12. laghu chandrika (upadhivAdAnta)
-13. bhamati (chatussutri), vivarana prameya sangraha
-14. khandana khanda khadyam (1st pariccheda)
+1. तर्क सङ्ग्रह दीपिका
+2. न्याय सिद्धन्त मुक्तावली
+3. मीमांसा न्याय प्रकाशः, वेदान्त परिभाषा
+4. सिद्धान्त लेश सङ्ग्रहः
+5. ईशकेनकठप्रश्नमुण्डकोपनिषदः सभाष्याः
+6. माण्डूक्यतैत्तिरीयोपनिषदौ सभाष्यौ
+7. छान्द्योग्योपनिषद् (षष्ठाध्यायः), बृहदारण्यकोपनिषद् (तृतीयाध्यायः) सभाष्यौ
+8. भगवद्गीता सभाष्या
+9. सूत्रभाषम्
+10. सूत्रभाष्यम्
+11. अद्वैतसिद्धिः (प्रथमपरिच्छेदः)
+12. लघु चन्द्रिका (उपाधिवादान्तम्)
+13. भामती (चतुस्सूत्री), विवरण प्रमेय सङ्ग्रहः
+14. खण्डन खण्ड खाद्यम् (प्रथमपरिच्छेदः)

@@ -3,11 +3,10 @@
 
 @import "minima";
 
-@font-face {
-    font-family: 'siddhanta-cakravat1';
-    font-style: normal;
-    font-weight: 400;
-    src: url(https://raw.githubusercontent.com/sanskrit-coders/sanskrit-fonts/master/fonts/ttf-devanagari-fonts/siddhanta-variations/siddhanta-cakravat1.ttf) format('truetype');
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+Devanagari);
+
+body {
+  font-family: 'Noto Sans Devanagari';
 }
 
 h1, h2, h3 {
@@ -30,101 +29,4 @@ h3 {
 
 blockquote {
   font-style: normal;
-}
-
-.title {
-  font-size: 130%;
-  font-weight:bold;
-}
-
-.index h1::before, .index h1::after {
-  content: "";
-}
-
-*[lang="sa"] {
-font-family:  'Siddhanta-cakravat1',  serif  !important;
-font-size: 120%;
-line-height:2.25;
-font-weight:normal;
-font-style:normal;
-}
-
-.bhashya {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-
-  > :last-child {
-    margin-bottom: 0;
-  }
-}
-
-.noswara {
-  font-family:  'Sanskrit 2003', 'Siddhanta-cakravat1', serif  !important;
-  font-size: 130%;
-  line-height:2.25;
-  font-weight:normal;
-  font-style:normal;
-}
-
-.eng-vidhi, .eng-add, #markdown-toc {
-    font-size: 80%;
-    line-height: 1.5;
-    font-family: arial;
-    font-weight: normal;
-}
-
-.eng-add {
-  background-color: whitesmoke;
-  padding: 15px 10px 15px 10px;
-}
-
-.skt-extra {
-  background-color: whitesmoke;
-  padding: 15px 10px 15px 10px;
-}
-
-.index {
-  line-height: 1.5;
-  font-size: 100%;
-}
-
-.index > .eng-vidhi {
-  margin-left:70px;
-  margin-right: 50px;
-}
-
-.index > ul {
-  margin-left:90px;
-  margin-right: 50px;
-}
-
-
-.count-mantras {
-  counter-reset: mantra;
-}
-
-.count-mantras>p:after {
-    counter-increment: mantra;
-    content: "(" counter(mantra) ")";
-    font-size: 0.9em;
-    padding-left: 10px;
-}
-
-@media print {
-
-  .no-print {
-    display: none;
-  }
-
-  html, body {
-    margin: 10px;
-  }
-
-  @page {
-    margin: 10px;
-  }
-
 }

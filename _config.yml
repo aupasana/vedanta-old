@@ -29,7 +29,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#includes:
+gems:
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+
+    #includes:
 #- prayoga/sukta
 
 #exclude: [ "pdf" ] 
