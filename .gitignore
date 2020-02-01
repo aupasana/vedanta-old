@@ -1,0 +1,11 @@
+pdf
+
+## jekyll
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+Gemfile.lock
+
+## intellij
+*.iml
