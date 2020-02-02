@@ -7,14 +7,19 @@ title: mimamsa
 
 {::options parse_block_html="true" /}
 
-tarka saṅgraha is the famous introductory text for tarka shāstra.
-The mūla is first studied, and it is then studied again along
-with the author's own commentary, the dīpikā. Since the dīpīkā
-opens the door to the study of advanced texts such as the
-celebrated gādhādharī, the dīpīkā is also known as the bāla gādhādharī.
+mīmāmsā nyāya prakāsha is the introductory text for mīmāmsā shāstra.
 
 ### Links:
 
 - [prakāsha with hindi translation by paṭṭābhirāma shāstrī][np-ps]
 
 [np-ps]: https://archive.org/details/MimamsaNyayaPrakashaPt.KamlapatiTripathi
+
+# artha saṅgraha
+
+Some āchāryas teach the artha saṅgraha instead of the mīmāmsā nyāya prakāsha
+as the introductory text for mīmāmsā shāstra.
+
+- [class recordings on the artha saṅgraha by dravidāchārya][as-sn]
+
+[as-sn]: http://shastranethralaya.org/discourse/03tarka/
