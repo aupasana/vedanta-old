@@ -21,11 +21,13 @@ The tarka saṅgraha can be divided into 4 sections:
 
 ### Links:
 
-- [tarka saṅgraha text with dīpīkā and hindi translations][ts-jha]
+- [tarka saṅgraha text with dīpīkā and hindi translation][ts-jha]
+- [tarka saṅgraha text with dīpikā and english translation][ts-sv]
 - [tarka saṅgraha class recordings on the mūlā as well as nyāya bodhinī and pakakr̥itya commentaries][ts-sn]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-sn]: http://shastranethralaya.org/discourse/03tarka/
+[ts-sv]: https://www.exoticindiaart.com/book/details/tarka-samgraha-IDG912/
 
 # nyāya siddhānta muktāvalī
 
@@ -35,6 +37,8 @@ scools. It is typically studied after the tarka saṅgraha.
 
 ### Links:
 
-- [kārikāvalī, nyāya siddhānta muktāvalī and hindi translations][nm-lbs]
+- [kārikāvalī, nyāya siddhānta muktāvalī and hindi translation][nm-lbs]
+- [kārikāvalī, nyāya siddhānta muktāvalī and english translation][nm-sm]
 
 [nm-lbs]: https://archive.org/details/KarikavaliLalBahadurShastriSanskriVidyapeeth
+[nm-sm]: https://www.exoticindiaart.com/book/details/bhasa-pariccheda-with-siddhanta-muktavali-IDJ655/
