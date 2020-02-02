@@ -21,11 +21,13 @@ The tarka saṅgraha can be divided into 4 sections:
 
 ### Links:
 
-- [tarka saṅgraha text with dīpīkā and hindi translation][ts-jha]
-- [tarka saṅgraha text with dīpikā and english translation][ts-sv]
-- [tarka saṅgraha class recordings on the mūlā as well as nyāya bodhinī and pakakr̥itya commentaries][ts-sn]
+- [dīpīkā with hindi translation by ānand jhā][ts-jha]
+- [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
+- [dīpīkā with english translation by swami virupakshananda][ts-sv]
+- [class recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
+[ts-db]: https://archive.org/details/TarkaSangrahaHindiTransDayanandaBhargava
 [ts-sn]: http://shastranethralaya.org/discourse/03tarka/
 [ts-sv]: https://www.exoticindiaart.com/book/details/tarka-samgraha-IDG912/
 
@@ -37,8 +39,8 @@ scools. It is typically studied after the tarka saṅgraha.
 
 ### Links:
 
-- [kārikāvalī, nyāya siddhānta muktāvalī and hindi translation][nm-lbs]
-- [kārikāvalī, nyāya siddhānta muktāvalī and english translation][nm-sm]
+- [muktāvalī and hindi translation by ramesh kumar pandey][nm-lbs]
+- [muktāvalī and english translation by swami mādhavānanda][nm-sm]
 
 [nm-lbs]: https://archive.org/details/KarikavaliLalBahadurShastriSanskriVidyapeeth
 [nm-sm]: https://www.exoticindiaart.com/book/details/bhasa-pariccheda-with-siddhanta-muktavali-IDJ655/
