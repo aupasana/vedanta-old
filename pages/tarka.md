@@ -29,9 +29,9 @@ The tarka saṅgraha can be divided into 4 sections:
 
 # nyāya siddhānta muktāvalī
 
-The nyāya siddhānta muktāvalī is a standard comprehensive text that outlines
-the nyāya and vaisheṣhikā schools.
-It is usually studied after the tarka saṅgraha.
+The nyāya siddhānta muktāvalī is a commentary on the kārikāvalī (bhāṣhā pariccheda).
+Together, they form a comprehensive text outlining the combined nyāya / vaiṣheśhika
+scools. It is typically studied after the tarka saṅgraha.
 
 ### Links:
 
