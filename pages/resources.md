@@ -1,5 +1,6 @@
 ---
 layout: default
+title: links and resources
 ---
 
 {::options parse_block_html="true" /}

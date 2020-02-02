@@ -1,5 +1,6 @@
 ---
 layout: default
+title: vedānta
 ---
 
 {::options parse_block_html="true" /}

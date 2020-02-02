@@ -1,5 +1,6 @@
 ---
 layout: default
+title: tenali vedanta syllabus
 ---
 
 {::options parse_block_html="true" /}
@@ -9,7 +10,7 @@ The 14-semester (7 year) Tenali syllabus for vedānta is given below.
 ## पाठ्यक्रमः (प्रत्ययनम्)
 
 1. [तर्क सङ्ग्रह दीपिका](../tarka)
-2. न्याय सिद्धन्त मुक्तावली
+2. [न्याय सिद्धन्त मुक्तावली](../tarka)
 3. मीमांसा न्याय प्रकाशः, वेदान्त परिभाषा
 4. सिद्धान्त लेश सङ्ग्रहः
 5. ईशकेनकठप्रश्नमुण्डकोपनिषदः सभाष्याः
