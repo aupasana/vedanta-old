@@ -22,3 +22,7 @@ The 14-semester (7 year) Tenali syllabus for vedānta is given below.
 12. लघु चन्द्रिका (उपाधिवादान्तम्)
 13. भामती (चतुस्सूत्री), विवरण प्रमेय सङ्ग्रहः
 14. खण्डन खण्ड खाद्यम् (प्रथमपरिच्छेदः)
+
+## Links
+
+- [Tenali and Nagara syllabus for various shāstras](https://groups.google.com/d/msg/bvparishat/E-6sDghh7XE/tC8PixnUAQAJ)

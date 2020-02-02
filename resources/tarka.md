@@ -19,7 +19,7 @@ The tarka saṅgraha can be divided into 4 sections:
 3. उपमान परिच्छेदः
 4. शब्द परिच्छेदः
 
-References:
+### Links:
 
 - [tarka saṅgraha text with dīpīkā and hindi translations][ts-jha]
 - [tarka saṅgraha class recordings on the mūlā as well as nyāya bodhinī and pakakr̥itya commentaries][ts-sn]
@@ -29,3 +29,12 @@ References:
 
 # nyāya siddhānta muktāvalī
 
+The nyāya siddhānta muktāvalī is a standard comprehensive text that outlines
+the nyāya and vaisheṣhikā schools.
+It is usually studied after the tarka saṅgraha.
+
+### Links:
+
+- [kārikāvalī, nyāya siddhānta muktāvalī and hindi translations][nm-lbs]
+
+[nm-lbs]: https://archive.org/details/KarikavaliLalBahadurShastriSanskriVidyapeeth
