@@ -10,7 +10,7 @@ title: vedānta
 The traditional study of vedānta progresses through a study of:
 
 1. samskr̥it literature and vyākaraṇa
-2. [tarka](pages/tarka) and mīmāmsā
+2. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
 3. vedānta pramāṇa and siddhānta
 4. prasthāna traya (upaniṣhads, gītā, brahma sūtras)
 5. sub-schools (bhāmatī, vivaraṇa prameya saṅgraha)
