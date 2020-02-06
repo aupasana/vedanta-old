@@ -24,4 +24,4 @@ as the introductory text for mīmāmsā shāstra.
 
 - [class recordings on the artha saṅgraha by dravidāchārya][as-sn]
 
-[as-sn]: http://shastranethralaya.org/discourse/03tarka/
+[as-sn]: http://shastranethralaya.org/discourse/poorva-mimasa-discourse/
