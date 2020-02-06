@@ -12,13 +12,11 @@ for 36 weeks a year.
 
 | year  |# weeks|# classes| Text                     |                                  | language |
 |:-----:|:-----:|:-------:| ------------------------ | -------------------------------- | -------- |
-| 1     | 4     | 10      | prasthāna bheda          | [youtube - abhishek giri][pb]    | english  |
-|       | 3     | 7       | prasthāna bheda          | [youtube - narendra kapre][pb-nk]| saṁskr̥it |
+| 1     | 3     | 7       | prasthāna bheda          | [youtube - narendra kapre][pb-nk]| saṁskr̥it |
 | ...   | 14    | 42      | tarka saṅgraha           | [youtube - SB San Francisco][ts] | saṁskr̥it |
 | ...   | 7     | 19      | artha saṅgraha           | [shastra nethralaya][as]         | english  |
 | ...   | 10    | 30      | vedānta sāra             | [swami paramarthananda][vs]      | english  |
-| 2     | 16    | 48      | vedānta paribhāṣhā       | [shastra nethralaya][vp]         | english  |
-|       | 8+    | 22+     |                          | [youtube - sri maheshwaran][vpm] | saṁskr̥it |
+| 2     | 8+    | 22+     | vedānta paribhāṣhā       | [youtube - sri maheshwaran][vpm] | saṁskr̥it |
 | ...   | 16    | 48      | siddhānta lesha saṅgraha | [shastra nethralaya][sls]        | english  |
 | 3-4   | 61    | 181     | upaniṣhad bhāṣhya        | [shastra nethralaya][up]         | english  |
 | 5     | 38    | 112     | bhagavad gītā bhāṣhya    | [shastra nethralaya][gi]         | english  |
