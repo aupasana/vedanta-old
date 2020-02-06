@@ -9,12 +9,16 @@ title: vedānta
 
 The traditional study of vedānta progresses through a study of:
 
+1. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
+2. vedānta pramāṇa and siddhānta
+3. prasthāna traya (upaniṣhads, gītā, brahma sūtras)
+4. sub-schools (bhāmatī, vivaraṇa prameya saṅgraha)
+5. advanced texts (advaita siddhi, khaṇḍana khaṇḍa khādya, chitsukhī)
+
+# pre-requisites
+
 1. samskr̥it literature and vyākaraṇa
-2. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
-3. vedānta pramāṇa and siddhānta
-4. prasthāna traya (upaniṣhads, gītā, brahma sūtras)
-5. sub-schools (bhāmatī, vivaraṇa prameya saṅgraha)
-6. advanced texts (advaita siddhi, khaṇḍana khaṇḍa khādya, chitsukhī)
+2. introduction to [darshanas and prasthānas](pages/prasthana).
 
 ### Links:
 

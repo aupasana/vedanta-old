@@ -26,11 +26,13 @@ The tarka saṅgraha can be divided into 4 sections:
 - [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
 - [dīpīkā with english translation by swami virupakshananda][ts-sv]
 - [class recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
+- [tarka saṅgraha youtube saṁskr̥it class recordings][ts-y-sb]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-db]: https://archive.org/details/TarkaSangrahaHindiTransDayanandaBhargava
 [ts-sn]: http://shastranethralaya.org/discourse/03tarka/
 [ts-sv]: https://www.exoticindiaart.com/book/details/tarka-samgraha-IDG912/
+[ts-y-sb]: https://www.youtube.com/watch?v=qvP65AIaHcI&list=PLYBqfL4ycMjsRkQI6wg6w8aPKIXScMKRp
 
 # nyāya siddhānta muktāvalī
 
