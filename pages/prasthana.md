@@ -16,7 +16,7 @@ text, the prasthāna bheda.
 
 - [prasthāna bheda saṁskr̥it text][pb-s]
 - [prasthāna bheda english translation][pb-e]
-- [prasthāna bheda saṁskr̥it youtube class recordings by shrī narendra kapre][pb-y-eng]
+- [prasthāna bheda saṁskr̥it youtube class recordings by shrī narendra kapre][pb-y-san]
 - [prasthāna bheda english youtube class recordings by shrī abhishek giri][pb-y-eng]
 
 [pb-s]: https://archive.org/details/04PrasthanaBhedaOfMadhusudana
