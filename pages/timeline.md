@@ -10,18 +10,18 @@ title: timeline
 The timeline below is based on 3 classes a week with
 for 36 weeks a year.
 
-| year  |# weeks|# classes| Text                     |                                  | language |
-|:-----:|:-----:|:-------:| ------------------------ | -------------------------------- | -------- |
-| 1     | 3     | 7       | prasthāna bheda          | [youtube - narendra kapre][pb-nk]| saṁskr̥it |
-| ...   | 14    | 42      | tarka saṅgraha           | [youtube - SB San Francisco][ts] | saṁskr̥it |
-| ...   | 7     | 19      | artha saṅgraha           | [shastra nethralaya][as]         | english  |
-| ...   | 10    | 30      | vedānta sāra             | [swami paramarthananda][vs]      | english  |
-| 2     | 8+    | 22+     | vedānta paribhāṣhā       | [youtube - sri maheshwaran][vpm] | saṁskr̥it |
-| ...   | 16    | 48      | siddhānta lesha saṅgraha | [shastra nethralaya][sls]        | english  |
-| 3-4   | 61    | 181     | upaniṣhad bhāṣhya        | [shastra nethralaya][up]         | english  |
-| 5     | 38    | 112     | bhagavad gītā bhāṣhya    | [shastra nethralaya][gi]         | english  |
-| 6-8   | 125   | 375     | brahma sūtra bhāmatī     | [shastra nethralaya][bs]         | english  |
-| 9-10  | 72    | 216     | advaita siddhi           | [shastra nethralaya][as]         | english  |
+| year  | weeks | classes | text                     |                                  |     | format  |
+|:-----:|:-----:|:-------:| ------------------------ | -------------------------------- | --- | ------- |
+| 1     | 3     | 7       | prasthāna bheda          | [narendra kapre][pb-nk]          | skt | youtube |
+| ...   | 14    | 42      | tarka saṅgraha           | [SB San Francisco][ts]           | skt | youtube |
+| ...   | 7     | 19      | artha saṅgraha           | [shastra nethralaya][as]         | eng | mp3     |
+| ...   | 10    | 30      | vedānta sāra             | [swami paramarthananda][vs]      | eng | mp3     |
+| 2     | 8+    | 22+     | vedānta paribhāṣhā       | [sri maheshwaran][vpm]           | skt | youtube |
+| ...   | 16    | 48      | siddhānta lesha saṅgraha | [shastra nethralaya][sls]        | eng | mp3     |
+| 3-4   | 61    | 181     | upaniṣhad bhāṣhya        | [shastra nethralaya][up]         | eng | mp3     |
+| 5     | 38    | 112     | bhagavad gītā bhāṣhya    | [shastra nethralaya][gi]         | eng | mp3     |
+| 6-8   | 125   | 375     | brahma sūtra bhāmatī     | [shastra nethralaya][bs]         | eng | mp3     |
+| 9-10  | 72    | 216     | advaita siddhi           | [shastra nethralaya][as]         | eng | mp3     |
 
 [pb]: https://www.youtube.com/watch?v=iWQeOng-pCQ&list=PLFvJhDZZSfT1aX7NDZCZcMfVHKyNuQTAR
 [pb-nk]: https://www.youtube.com/watch?v=iWQeOng-pCQ&list=PLFvJhDZZSfT1aX7NDZCZcMfVHKyNuQTAR
