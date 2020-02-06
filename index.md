@@ -26,6 +26,6 @@ The traditional study of vedānta progresses through a study of:
 
 ### Links:
 
+- [Study plan](pages/timeline) based on online resources
 - [Tenali vedānta syllabus](pages/syllabus/tenali)
 - [Resources and links](pages/resources)
-- [Timeline](pages/timeline) based on the shastra nethralaya resources
