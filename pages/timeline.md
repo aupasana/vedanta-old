@@ -7,6 +7,9 @@ title: timeline
 
 {::options parse_block_html="true" /}
 
+The timeline below is based on 3 classes a week with
+for 36 weeks a year.
+
 | Year  | Weeks | Classes | Text                     |
 | ----- | ----- | ------- | ------------------------ |
 | 1     | 4     | 10      | prasthāna bheda          |
