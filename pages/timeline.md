@@ -16,7 +16,7 @@ for 36 weeks a year.
 | 1     | 14    | 42      | tarka saṅgraha           |
 | 1     | 7     | 19      | artha saṅgraha           |
 | 1     | 10    | 30      | vedānta sāra             |
-| 2     | 16    | 48      | vedānta paribhāṣā        |
+| 2     | 16    | 48      | vedānta paribhāṣhā        |
 | 2     | 16    | 48      | siddhānta lesha saṅgraha |
 | 3-4   | 61    | 181     | upaniṣhad bhāṣhya        |
 | 5     | 38    | 112     | bhagavad gītā bhāṣhya    |
