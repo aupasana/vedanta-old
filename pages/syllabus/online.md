@@ -12,7 +12,7 @@ The timeline below is based on 108 classes a year (3 classes a week for 36 weeks
 | year  | weeks | text                     |                                  |     |         |
 |:-----:|:-----:| ------------------------ | -------------------------------- | --- | ------- |
 | 1     | 1-3   | prasthāna bheda          | [narendra kapre][pb-nk]          | skt | youtube |
-| 1     | 4-17  | tarka saṅgraha           | [shrī rāmapriya]][ts]           | skt | youtube |
+| 1     | 4-17  | tarka saṅgraha           | [shrī rāmapriya][ts]           | skt | youtube |
 | 1     | 18-24 | artha saṅgraha           | [shāstra nethrālaya][as]         | eng | mp3     |
 | 1     | 25-34 | vedānta sāra             | [swāmī paramārthānanda][vs]      | eng | mp3     |
 | 2     | 1-8+  | vedānta paribhāṣhā       | [shrī maheshwaran][vpm]           | skt | youtube |
