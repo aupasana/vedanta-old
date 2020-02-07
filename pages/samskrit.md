@@ -18,12 +18,14 @@ A good modern set is the [teach yourself saṁskr̥it (dīkṣhā)][diksha] bo
 
 [diksha]: https://www.exoticindiaart.com/book/details/teach-yourself-sanskrit-set-of-8-books-NZL365/
 
+#### Links
+
+- [prathama dīkṣhā class recordings by Dr D Narasinga Rao][pd]
+- [pañchatantra class recordings by Dr D Narasinga Rao][pt]
+
+[pd]: https://www.youtube.com/watch?v=NQ6CLekQJO0&list=PLWjpkY4mU2RD8URCGJFG5nZQcb_PKTW8-
+[pt]: https://www.youtube.com/watch?v=AaUE0lH8FbY&list=PLWjpkY4mU2RA5VEATwlubrhFVX7Mra74H
+
 ### vyākaraṇa
 
 [ add here ]
-
-### Links
-
-- [prathama dīkṣhā class recordings][pd]
-
-[pd]: https://www.youtube.com/watch?v=NQ6CLekQJO0&list=PLWjpkY4mU2RD8URCGJFG5nZQcb_PKTW8-
