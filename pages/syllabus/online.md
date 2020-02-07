@@ -7,7 +7,7 @@ title: timeline
 
 {::options parse_block_html="true" /}
 
-The timeline below is based on 3 classes a week for approximately 36 weeks a year.
+The timeline below is based on 108 classes a year (3 classes a week for 36 weeks).
 
 | year  | weeks | text                     |                                  |     |         |
 |:-----:|:-----:| ------------------------ | -------------------------------- | --- | ------- |
