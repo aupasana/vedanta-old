@@ -34,7 +34,7 @@ The traditional study of vedānta progress through the following:
 
 # Syllabus
 
-- [vedānta syllabus based on online resources](pages/syllabus/online) based on online resources
+- [vedānta syllabus based on online resources](pages/syllabus/online)
 - [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
 
 # Links:
