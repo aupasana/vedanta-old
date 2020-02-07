@@ -25,3 +25,8 @@ the A-Z of vedānta and related darshanas, as well as advanced vāda granthas.
 Perhaps the only teaching that is 'missing' is the siddhānta lesha saṅgraha.
 
 [ka]: http://shankaramatha.org
+
+# youtube links
+
+- [Sri Maṇi Dravid Shastrigal talks about his learning](https://www.youtube.com/watch?v=WMvMut0AwEc)
+- [Sri KS Maheswaran - vākyārtha sabhā on aikyāvarodha](https://www.youtube.com/watch?v=ADlGJWbR5-M)
