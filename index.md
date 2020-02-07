@@ -17,7 +17,7 @@ The traditional study of vedānta progress through the following:
 #### Study of shāstras 
 
 1. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
-2. vedānta pramāṇa and siddhānta
+2. [vedānta pramāṇa](pages/siddhanta) and [siddhānta](pages/siddhanta)
 
 #### Study of prasthāna traya
 
