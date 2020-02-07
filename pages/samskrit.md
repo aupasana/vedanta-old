@@ -22,9 +22,11 @@ A good modern set is the [teach yourself saṁskr̥it (dīkṣhā)][diksha] bo
 
 - [prathama dīkṣhā class recordings by Dr D Narasinga Rao][pd]
 - [pañchatantra class recordings by Dr D Narasinga Rao][pt]
+- [yoma labs class recordings on many kāvyas etc][vyoma]
 
 [pd]: https://www.youtube.com/watch?v=NQ6CLekQJO0&list=PLWjpkY4mU2RD8URCGJFG5nZQcb_PKTW8-
 [pt]: https://www.youtube.com/watch?v=AaUE0lH8FbY&list=PLWjpkY4mU2RA5VEATwlubrhFVX7Mra74H
+[vyoma]: https://www.sanskritfromhome.in
 
 ### vyākaraṇa
 

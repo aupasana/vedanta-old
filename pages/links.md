@@ -12,6 +12,7 @@ title: links and resources
 - [swami paramarthananda's class recordings][sp]
 - [vedanta hub](https://www.vedantahub.org)
 - [advaita sharada](https://advaitasharada.sringeri.net)
+- [vyoma labs](https://www.sanskritfromhome.in)
 
 [sn]: http://shastranethralaya.org/discourse/?lang=english
 [avg]: https://arshavidya.in/product/fifth-3-year-long-term-course-2010-2013/
