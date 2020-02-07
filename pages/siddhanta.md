@@ -34,9 +34,9 @@ the positions of the bhāmatī and vivaraṇa scools.
 ### Links
 
 - [class recordings on the siddhānta lesha saṅgraha by dravidāchārya][sls-sn]
-- [sanskrit youtube recordings by kuṭumba shāstrī - Part 1][sls-ks-1]
-- [sanskrit youtube recordings by kuṭumba shāstrī - Part 2][sls-ks-2]
-- [sanskrit youtube recordings by kuṭumba shāstrī - Part 3][sls-ks-3]
+- [sanskrit youtube recordings by shrī kuṭumba shāstrī - Part 1][sls-ks-1]
+- [sanskrit youtube recordings by shrī kuṭumba shāstrī - Part 2][sls-ks-2]
+- [sanskrit youtube recordings by shrī kuṭumba shāstrī - Part 3][sls-ks-3]
 
 [sls-sn]: http://shastranethralaya.org/discourse/SiddhantaLesaSangraha
 [sls-ks-1]: https://www.youtube.com/watch?v=GmcEAE3ecf8&list=PLlNdduOe1pp3rOWShjN0ldFi0UmsBrhvH
