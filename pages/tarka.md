@@ -13,20 +13,13 @@ with the author's own commentary, the dīpikā. Since the dīpīkā
 opens the door to the study of advanced texts such as the
 celebrated gādhādharī, the dīpīkā is also known as the bāla gādhādharī.
 
-The tarka saṅgraha can be divided into 4 sections:
-
-1. प्रत्यक्ष परिच्छेदः
-2. अनुमान परिच्छेदः
-3. उपमान परिच्छेदः
-4. शब्द परिच्छेदः
-
 ### Links:
 
 - [dīpīkā with hindi translation by ānand jhā][ts-jha]
 - [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
 - [dīpīkā with english translation by swami virupakshananda][ts-sv]
 - [class recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
-- [tarka saṅgraha youtube saṁskr̥it class recordings][ts-y-sb]
+- [sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-db]: https://archive.org/details/TarkaSangrahaHindiTransDayanandaBhargava
@@ -38,7 +31,7 @@ The tarka saṅgraha can be divided into 4 sections:
 
 The nyāya siddhānta muktāvalī is a commentary on the kārikāvalī (bhāṣhā pariccheda).
 Together, they form a comprehensive text outlining the combined nyāya / vaiṣheśhika
-scools. It is typically studied after the tarka saṅgraha.
+schools. It is typically studied after the tarka saṅgraha.
 
 ### Links:
 

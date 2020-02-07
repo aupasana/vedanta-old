@@ -14,7 +14,7 @@ The traditional study of vedānta progress through the following:
 1. [basic saṁskr̥it and vyākaraṇa](pages/samskrit)
 2. introduction to [darshanas and prasthānas](pages/prasthana).
 
-#### Study of shāstras 
+#### Study of shāstras
 
 1. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
 2. [vedānta pramāṇa](pages/siddhanta) and [siddhānta](pages/siddhanta)
@@ -38,6 +38,6 @@ The traditional study of vedānta progress through the following:
 - [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
 - [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
 
-# Links:
+# Links
 
 - [resources and links](pages/links)

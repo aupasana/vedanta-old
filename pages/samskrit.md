@@ -9,12 +9,13 @@ title: samskrit
 
 ### sambhāṣhaṇa
 
-Spoken saṁskr̥it is best learnt through [saṁskr̥ita bhāratī](https://samskritabharati.org)
+Spoken saṁskr̥it is best learnt through [saṁskr̥ita bhāratī](http://samskritabharati.org)
 
 ### basic saṁskr̥it
 
 There are many books that impart basic saṁskr̥it skills.
-A good modern set is the [teach yourself saṁskr̥it (dīkṣhā)][diksha] books.
+A good modern set of books is the [teach yourself saṁskr̥it (dīkṣhā)][diksha] books.
+Dr. Narasinga Rao goes through every page of these books in his youtube classes.
 
 [diksha]: https://www.exoticindiaart.com/book/details/teach-yourself-sanskrit-set-of-8-books-NZL365/
 
@@ -30,4 +31,6 @@ A good modern set is the [teach yourself saṁskr̥it (dīkṣhā)][diksha] bo
 
 ### vyākaraṇa
 
-[ add here ]
+A basic knowledge of vyākaraṇa is useful (and necessary), as captured in the dictum
+`काणादं पाणिनीयं च सर्वशास्त्रोपकारकं'. There are many books and classes which cover the
+laghu siddhānta kaumudī in some detail.

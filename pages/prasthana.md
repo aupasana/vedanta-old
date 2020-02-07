@@ -9,7 +9,7 @@ title: prasthana
 
 There are many different darshanas and spiritual paths (prasthānas).
 What are they, how are they related to one another, and what is the
-big picture? Madhusūdana Saraswati addresses these topics in his short
+big picture? Madhusūdana Saraswatī addresses these topics in his short
 text, the prasthāna bheda.
 
 ### Links:
