@@ -31,3 +31,4 @@ Perhaps the only teaching that is 'missing' is the siddhānta lesha saṅgraha.
 
 - [Sri Maṇi Dravid Shastrigal talks about his learning](https://www.youtube.com/watch?v=WMvMut0AwEc)
 - [Sri KS Maheswaran - vākyārtha sabhā on aikyāvarodha](https://www.youtube.com/watch?v=ADlGJWbR5-M)
+- [Sri Maṇi Dravid Shastrigal talks about prasthāna traya bhāṣhya](https://www.youtube.com/watch?v=jo2KdicQu_E)
