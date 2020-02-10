@@ -7,20 +7,18 @@ title: timeline
 
 {::options parse_block_html="true" /}
 
-The timeline below is based on 108 classes a year (3 classes a week for 36 weeks).
-
-| year  | weeks | text                     |                                  |     |         |
-|:-----:|:-----:| ------------------------ | -------------------------------- | --- | ------- |
-| 1     | 1-3   | prasthāna bheda          | [narendra kapre][pb-nk]          | skt | youtube |
-| 1     | 4-17  | tarka saṅgraha           | [shrī rāmapriya][ts]             | skt | youtube |
-| 1     | 18-24 | artha saṅgraha           | [shāstra nethrālaya][as]         | eng | mp3     |
-| 1     | 25-34 | vedānta sāra             | [swāmī paramārthānanda][vs]      | eng | mp3     |
-| 2     | 1-8+  | vedānta paribhāṣhā       | [shrī maheshwaran][vpm]          | skt | youtube |
-| 2     | 21-36 | siddhānta lesha saṅgraha | [shāstra nethrālaya][sls]        | eng | mp3     |
-| 3,4   | 1-31  | upaniṣhad bhāṣhya        | [shāstra nethrālaya][up]         | eng | mp3     |
-| 5     | 1-38  | bhagavad gītā bhāṣhya    | [shāstra nethrālaya][gi]         | eng | mp3     |
-| 6,7,8 | 1-42  | brahma sūtra bhāmatī     | [shāstra nethrālaya][bs]         | eng | mp3     |
-| 9,10  | 1-36  | advaita siddhi           | [shāstra nethrālaya][as]         | eng | mp3     |
+| text                     |                                  |     |         |
+ ------------------------ | -------------------------------- | --- | ------- |
+| prasthāna bheda          | [narendra kapre][pb-nk]          | skt | youtube |
+| tarka saṅgraha           | [shrī rāmapriya][ts]             | skt | youtube |
+| artha saṅgraha           | [shāstra nethrālaya][as]         | eng | mp3     |
+| vedānta sāra             | [swāmī paramārthānanda][vs]      | eng | mp3     |
+| vedānta paribhāṣhā       | [shrī maheshwaran][vpm]          | skt | youtube |
+| siddhānta lesha saṅgraha | [shāstra nethrālaya][sls]        | eng | mp3     |
+| upaniṣhad bhāṣhya        | [shāstra nethrālaya][up]         | eng | mp3     |
+| bhagavad gītā bhāṣhya    | [shāstra nethrālaya][gi]         | eng | mp3     |
+| brahma sūtra bhāmatī     | [shāstra nethrālaya][bs]         | eng | mp3     |
+| advaita siddhi           | [shāstra nethrālaya][asi]        | eng | mp3     |
 
 [pb]: https://www.youtube.com/watch?v=iWQeOng-pCQ&list=PLFvJhDZZSfT1aX7NDZCZcMfVHKyNuQTAR
 [pb-nk]: https://www.youtube.com/watch?v=iWQeOng-pCQ&list=PLFvJhDZZSfT1aX7NDZCZcMfVHKyNuQTAR
@@ -33,4 +31,4 @@ The timeline below is based on 108 classes a year (3 classes a week for 36 weeks
 [up]: http://shastranethralaya.org/discourse/upanishad
 [gi]: http://shastranethralaya.org/discourse/bhagavadgita
 [bs]: http://shastranethralaya.org/subject/brahmasutra
-[as]: http://shastranethralaya.org/subject/advaita-siddhi/
+[asi]: http://shastranethralaya.org/subject/advaita-siddhi
