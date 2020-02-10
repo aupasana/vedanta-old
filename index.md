@@ -7,7 +7,7 @@ title: vedānta
 
 # vedānta
 
-The traditional study of vedānta progress through the following:
+The traditional study of vedānta is summarized below:
 
 #### Pre-requisites
 
@@ -19,11 +19,11 @@ The traditional study of vedānta progress through the following:
 1. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
 2. [vedānta pramāṇa](pages/siddhanta) and [siddhānta](pages/siddhanta)
 
-#### Study of prasthāna traya
+#### Study of prasthāna traya bhāṣhya
 
-1. upaniṣhads (with bhāṣhya)
-2. gītā (with bhāṣhya)
-3. brahma sūtras (with bhāṣhya)
+1. upaniṣhads with bhāṣhya
+2. gītā with bhāṣhya
+3. brahma sūtras with bhāṣhya
 
 #### Study of advanced texts and vāda granthas
 
