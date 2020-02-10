@@ -3,18 +3,18 @@ layout: default
 title: online vedanta syllabus
 ---
 
-# vedānta syllabus based on online resources
-
 {::options parse_block_html="true" /}
+
+## vedānta syllabus based on online resources
 
 | grantha                  | āchārya                          | language | format  |
 | ------------------------ | -------------------------------- | -------- | ------- |
-| prasthāna bheda          | [narendra kapre][pb-nk]          | samskrit | youtube |
-| tarka saṅgraha           | [shrī rāmapriya][ts]             | samskrit | youtube |
+| prasthāna bheda          | [narendra kapre][pb-nk]          | saṁskr̥it | youtube |
+| tarka saṅgraha           | [shrī rāmapriya][ts]             | saṁskr̥it | youtube |
 | artha saṅgraha           | [shāstra nethrālaya][as]         | english  | mp3     |
 | vedānta sāra             | [swāmī paramārthānanda][vs]      | english  | mp3     |
-| vedānta paribhāṣhā       | [shrī maheshwaran][vpm]          | samskrit | youtube |
-| siddhānta lesha saṅgraha | [shrī kuṭumba shāstrī][sls]      | samskrit | youtube |
+| vedānta paribhāṣhā       | [shrī maheshwaran][vpm]          | saṁskr̥it | youtube |
+| siddhānta lesha saṅgraha | [shrī kuṭumba shāstrī][sls]      | saṁskr̥it | youtube |
 | upaniṣhad bhāṣhya        | [shāstra nethrālaya][up]         | english  | mp3     |
 | bhagavad gītā bhāṣhya    | [shāstra nethrālaya][gi]         | english  | mp3     |
 | brahma sūtra bhāmatī     | [shāstra nethrālaya][bs]         | english  | mp3     |
