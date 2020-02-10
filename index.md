@@ -38,6 +38,7 @@ The traditional study of vedānta is summarized below:
 - [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
 - [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
 
-# Links
+# Other
 
-- [resources and links](pages/links)
+- [siddhi literature](pages/siddhi)
+- [various links and resources](pages/links)
