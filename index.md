@@ -40,5 +40,6 @@ The traditional study of vedānta is summarized below:
 
 # Other
 
+- [bhamati and vivarana](pages/bhamati_vivarana)
 - [siddhi literature](pages/siddhi)
 - [various links and resources](pages/links)
