@@ -17,6 +17,9 @@ The vedānta paribhāṣhā discusses each of the six pramāṇas accepted b
 discusses the viṣhaya and phala as well. This text requires a good grounding in
 navya nyāya.
 
+Swami madhavananda writes that 'the vedānta paribhāṣhā is the most widely read book
+on [vedānta] philosophy next to sadananda yogindra's vedanta sara'.
+
 ### Links
 
 - [ongoing sanskrit lectures on the vedānta paribhāṣā by shrī maheshwaran][vp-m]
