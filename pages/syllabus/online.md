@@ -7,18 +7,18 @@ title: online vedanta syllabus
 
 ## vedānta syllabus based on online resources
 
-| grantha                  | āchārya                          | language | format  |
-| ------------------------ | -------------------------------- | -------- | ------- |
-| prasthāna bheda          | [narendra kapre][pb-nk]          | saṁskr̥it | youtube |
-| tarka saṅgraha           | [shrī rāmapriya][ts]             | saṁskr̥it | youtube |
-| artha saṅgraha           | [shāstra nethrālaya][as]         | english  | mp3     |
-| vedānta sāra             | [swāmī paramārthānanda][vs]      | english  | mp3     |
-| vedānta paribhāṣhā       | [shrī maheshwaran][vpm]          | saṁskr̥it | youtube |
-| siddhānta lesha saṅgraha | [shrī kuṭumba shāstrī][sls]      | saṁskr̥it | youtube |
-| upaniṣhad bhāṣhya        | [shāstra nethrālaya][up]         | english  | mp3     |
-| bhagavad gītā bhāṣhya    | [shāstra nethrālaya][gi]         | english  | mp3     |
-| brahma sūtra bhāmatī     | [shāstra nethrālaya][bs]         | english  | mp3     |
-| advaita siddhi           | [shāstra nethrālaya][asi]        | english  | mp3     |
+| shāstra | grantha                  | āchārya & recordings             | language | format  |
+| ------- | ------------------------ | -------------------------------- | -------- | ------- |
+| general | prasthāna bheda          | [narendra kapre][pb-nk]          | saṁskr̥it | youtube |
+| tarka   | tarka saṅgraha           | [shrī rāmapriya][ts]             | saṁskr̥it | youtube |
+| mīmāmsā | artha saṅgraha           | [shāstra nethrālaya][as]         | english  | mp3     |
+| vedānta | vedānta sāra             | [swāmī paramārthānanda][vs]      | english  | mp3     |
+| vedānta | vedānta paribhāṣhā       | [shrī maheshwaran][vpm]          | saṁskr̥it | youtube |
+| vedānta | siddhānta lesha saṅgraha | [shrī kuṭumba shāstrī][sls]      | saṁskr̥it | youtube |
+| bhāṣhya | upaniṣhad bhāṣhya        | [shāstra nethrālaya][up]         | english  | mp3     |
+| bhāṣhya | bhagavad gītā bhāṣhya    | [shāstra nethrālaya][gi]         | english  | mp3     |
+| bhāṣhya | brahma sūtra bhāmatī     | [shāstra nethrālaya][bs]         | english  | mp3     |
+| vāda    | advaita siddhi           | [shāstra nethrālaya][asi]        | english  | mp3     |
 
 [pb]: https://www.youtube.com/watch?v=iWQeOng-pCQ&list=PLFvJhDZZSfT1aX7NDZCZcMfVHKyNuQTAR
 [pb-nk]: https://www.youtube.com/watch?v=iWQeOng-pCQ&list=PLFvJhDZZSfT1aX7NDZCZcMfVHKyNuQTAR
