@@ -9,7 +9,7 @@ title: online vedanta syllabus
 
 | shāstra | grantha                  | āchārya & recordings             | language | format  |
 | ------- | ------------------------ | -------------------------------- | -------- | ------- |
-| general | prasthāna bheda          | [narendra kapre][pb-nk]          | saṁskr̥it | youtube |
+| general | prasthāna bheda          | [shrī narendra kapre][pb-nk]     | saṁskr̥it | youtube |
 | tarka   | tarka saṅgraha           | [shrī rāmapriya][ts]             | saṁskr̥it | youtube |
 | mīmāmsā | artha saṅgraha           | [shāstra nethrālaya][as]         | english  | mp3     |
 | vedānta | vedānta sāra             | [swāmī paramārthānanda][vs]      | english  | mp3     |
