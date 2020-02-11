@@ -39,4 +39,4 @@ Perhaps the only teaching that is 'missing' is the siddhānta lesha saṅgraha.
 
 # youtube talks (tamil)
 
-- [Sri Maṇi Dravid Shastrigal - six pramāṇas](https://www.youtube.com/watch?https://www.youtube.com/watch?v=sADGK79EqsE)
+- [Sri Maṇi Dravid Shastrigal - six pramāṇas](https://www.youtube.com/watch?v=sADGK79EqsE)
