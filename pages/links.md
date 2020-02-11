@@ -37,6 +37,10 @@ Perhaps the only teaching that is 'missing' is the siddhānta lesha saṅgraha.
 - [Sri Maṇi Dravid - prasthāna traya bhāṣhya](https://www.youtube.com/watch?v=jo2KdicQu_E)
 - [Sri KS Maheswaran - aikyāvarodha (vākyārtha sabhā)](https://www.youtube.com/watch?v=ADlGJWbR5-M)
 
+# youtube talks (english)
+
+- [Swami Samarpanananda - Indian darshanas](https://www.youtube.com/watch?v=R4BMFImFBa0&list=PLOsVQYiDSaj4Uq9bBj8NyvG8tOHyZogwz)
+
 # youtube talks (tamil)
 
 - [Sri Maṇi Dravid Shastrigal - six pramāṇas](https://www.youtube.com/watch?v=sADGK79EqsE)
