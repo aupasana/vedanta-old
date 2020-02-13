@@ -7,14 +7,9 @@ title: siddhi
 
 {::options parse_block_html="true" /}
 
-This short writeup is a summary of Kuppuswami Sastri's introduction
-to the brahma siddhi.
-
 The 'siddhi' texts are a class of literature. The term 'siddhi' stands for
-a conclusive conclusion after careful investigation.
-
-There are four famous 'siddhi' texts in vedanta, enumerated
-in the advaita siddhi itself. 
+a conclusive conclusion after careful investigation. There are four famous 'siddhi'
+texts in vedanta, enumerated in the advaita siddhi itself. 
 
 सिद्धीनामिष्टनैष्कर्म्यब्रह्मगानामियं चिरात्।  
 अद्वैतसिद्धिरधुना चतुर्थी समजायत॥
@@ -39,7 +34,7 @@ The ishta siddhi discusses avidya.
 
 ## advaita siddhi
 
-The advaita siddhi refuses the criticisms by dvaita scholars.
+The advaita siddhi refutes criticisms by dvaita scholars.
 
 # References
 
