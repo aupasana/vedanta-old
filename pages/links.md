@@ -27,7 +27,6 @@ title: links and resources
 The [kailash ashram's][ka] recordings of their traditional Hindi classes
 are available for purchase if you contact them directly. This includes
 the A-Z of vedānta and related darshanas, as well as advanced vāda granthas.
-Perhaps the only teaching that is 'missing' is the siddhānta lesha saṅgraha.
 
 [ka]: http://shankaramatha.org
 
