@@ -27,8 +27,10 @@ title: links and resources
 The [kailash ashram's][ka] recordings of their traditional Hindi classes
 are available for purchase if you contact them directly. This includes
 the A-Z of vedānta and related darshanas, as well as advanced vāda granthas.
+A [partial calague is presented here.][ka-c]
 
 [ka]: http://shankaramatha.org
+[ka-c]: syllabus/kailash
 
 # youtube talks (sanskrit)
 
