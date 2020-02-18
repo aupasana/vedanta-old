@@ -7,7 +7,7 @@ title: kailash ashram lectures
 
 ## Kailash Ashram Audio Recordings
 
-The kailash ashram has a large number of recordings of their traditional classes
+The kailash ashram has a large number of Hindi recordings of their traditional classes
 available for purchase. These include:
 
 ## vyakarana
@@ -73,3 +73,9 @@ available for purchase. These include:
 ## other
 
 - shankara dig vijaya
+
+## links
+
+- [kailash ashram website][ka]
+
+[ka]: http://shankaramatha.org
