@@ -14,6 +14,7 @@ title: links and resources
 - [veda dharma shāstra paripālana sabhā tamil lectures][vdsps]
 - [vedanta hub](https://www.vedantahub.org)
 - [advaita sharada](https://advaitasharada.sringeri.net)
+- [advaita academy](http://www.advaita-academy.org/)
 - [vyoma labs](https://www.sanskritfromhome.in)
 
 [sn]: http://shastranethralaya.org/discourse/?lang=english
