@@ -5,74 +5,74 @@ title: kailash ashram lectures
 
 {::options parse_block_html="true" /}
 
-## Kailash Ashram Audio Recordings
+## kailāsh āshram Audio Recordings
 
-The kailash ashram has a large number of Hindi recordings of their traditional classes
+The kailāsh āshram has a large number of Hindi recordings of their traditional classes
 available for purchase. These include:
 
-## vyakarana
+## vyākaraṇa
 
-- laghu siddhanta kaumudi
-- siddhanta kaumudi
+- laghu siddhānta kaumudī
+- siddhānta kaumudī
 
-## sankhya
+## sāṅkhya
 
-- sankhya tattva kaumudi
+- sāṅkhya tattva kaumudī
 
 ## yoga
 
-- patanjali yoga sutras
+- patanjali yoga sūtras
 
-## nyaya
+## nyāya
 
-- tarka sangraha
-- nyaya siddhanta muktavali
-- vyapti panchaka
-- siddhanta lakshana
+- tarka saṅgraha
+- nyāya siddhānta muktāvali
+- vyāpti pañchaka
+- siddhānta lakṣhaṇa
 
-## mimamsa
+## mīmāmsā
 
-- artha sangraha
-- mimamsa nyaya prakasha
+- artha saṅgraha
+- mīmāmsā nyāya prakāsha
 
 ## vedanta prakarana
 
 - tattva bodha
-- vedanta sara
-- vedanta paribhasha
+- vedānta sāra
+- vedānta paribhāshā
 
-- panchadashi
-- siddhanta bindu
-- svarajya siddhi
+- pañchadashī
+- siddhānta bindu
+- svārājya siddhi
 - advaita makaranda
-- atma bodha
-- vakya vritti
-- vakya sudha
+- ātma bodha
+- vākya vṛitti
+- vākya sudhā
 
-## prasthana traya asthadashaha
+## prasthāna traya
 
-- upanishad ashtadashaha
-- gita asthadashaha
-- brahma sutra ashtadashaha
+- dasha upaniṣhad bhāṣhya
+- other upaniṣhad bhāṣhya (kaivalya, shvetāshvatāra)
+- gītā bhāṣhya
+- gītā shaṅkarānandī bhāṣhya
+- brahma sūtra bhāṣhya
 
-## prasthana traya
+## prasthāna traya aṣhtādashāha
 
-- dasha upanishads bhashya
-- other upanishad bhashya (kaivalya, shvetashvatara)
-- gita bhashya
-- gita shankaranandi bhashya
-- brahma sutra bhashya
+- upaniṣhad aṣhtādashāha
+- gītā aṣhtadādashāha
+- brahma sūtra aṣhtadādashāha
 
 ## advanced texts
 
 - advaita siddhi
-- chit sukhi
-- khandana khanda khadya
-- panchapadika
+- chit sukhī
+- khaṇḍana khaṇḍa khādya
+- pañchapādikā
 
 ## other
 
-- shankara dig vijaya
+- shaṅkara dig vijaya
 
 ## links
 
