@@ -8,15 +8,17 @@ title: prasthana
 {::options parse_block_html="true" /}
 
 There are many different darshanas and spiritual paths (prasthānas).
-In the prasthāna bheda, madhusūdana Saraswatī enumerates them, and briefly
-discusses their lakṣhaṇas, contents and how they relate to each other. The
-contents include:
+In the prasthāna bheda, madhusūdana saraswatī enumerates them, outlines their
+contents, and provides their prayojana and lakṣhaṇa. He describes how the
+prasthānas are related to each other.
 
-- the 14 vidyā sthānas (with description and prayojana)
-- nāstika darshanas
+The contents of the prasthāna bheda include:
+
+- the 14 vidyā sthānas (with prayojana and lakṣhaṇa)
+- the 6 nāstika darshanas
 - lakṣhana for the vedas
  - mantra and brāhmana; vidhi and arthavāda etc
-- arthavāda statements and prāmana
+- arthavāda statements and prāmana status
 - where the darshanas fit into the 14 vidyā sthānas
 - where the puruṣhārthas fit into the 14 vidyā sthānas
 
