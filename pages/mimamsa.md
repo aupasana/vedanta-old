@@ -24,7 +24,7 @@ as the introductory text for mīmāmsā shāstra.
 
 - [artha saṅgraha with kaumudī vyākhyā][as-k]
 - [artha saṅgraha with arthāloka ṭīkā][as-k]
-- [artha saṅgraha with hindi dipika commentary][as-d]
+- [artha saṅgraha with hindi dīpikā commentary][as-d]
 
 [as-d]: https://archive.org/details/ArthaSangrahaHindi
 [as-a]: https://archive.org/details/LogakshiBhaskarArthaSangrahaVachaspatiUpadhyaya
