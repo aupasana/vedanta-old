@@ -9,7 +9,7 @@ title: mimamsa
 
 mīmāmsā nyāya prakāsha is the introductory text for mīmāmsā shāstra.
 
-### Links:
+### Links (texts):
 
 - [prakāsha with hindi translation by paṭṭābhirāma shāstrī][np-ps]
 
@@ -20,7 +20,7 @@ mīmāmsā nyāya prakāsha is the introductory text for mīmāmsā sha�
 Some āchāryas teach the artha saṅgraha instead of the mīmāmsā nyāya prakāsha
 as the introductory text for mīmāmsā shāstra.
 
-### Links:
+### Links (class recordings):
 
 - [class recordings on the artha saṅgraha by dravidāchārya][as-sn]
 

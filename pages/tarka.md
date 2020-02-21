@@ -13,11 +13,14 @@ with the author's own commentary, the dīpikā. Since the dīpīkā
 opens the door to the study of advanced texts such as the
 celebrated gādhādharī, the dīpīkā is also known as the bāla gādhādharī.
 
-### Links:
+### Links (texts):
 
 - [dīpīkā with hindi translation by ānand jhā][ts-jha]
 - [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
 - [dīpīkā with english translation by swami virupakshananda][ts-sv]
+
+### Links (class recordings):
+
 - [class recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
 - [sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
 
@@ -33,7 +36,7 @@ The nyāya siddhānta muktāvalī is a commentary on the kārikāvalī (b
 Together, they form a comprehensive text outlining the combined nyāya / vaiṣheśhika
 schools. It is typically studied after the tarka saṅgraha.
 
-### Links:
+### Links (texts):
 
 - [muktāvalī and hindi translation by ramesh kumar pandey][nm-lbs]
 - [muktāvalī and english translation by swami mādhavānanda][nm-sm]
