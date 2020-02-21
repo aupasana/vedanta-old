@@ -34,7 +34,7 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 
 The nyāya siddhānta muktāvalī is a commentary on the kārikāvalī (bhāṣhā pariccheda).
 Together, they form a comprehensive text outlining the combined nyāya / vaiṣheśhika
-schools. It is typically studied after the tarka saṅgraha.
+school. It is typically studied after the tarka saṅgraha.
 
 ### Links (texts):
 
