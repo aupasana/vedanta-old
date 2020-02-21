@@ -30,9 +30,9 @@ on [vedānta] philosophy next to sadananda yogindra's vedanta sara'.
 
 ## siddhānta lesha saṅgraha
 
-The siddhānta lesha saṅgraha is a text by Appayya Dikshita which summarizes the entire
-advaita siddhānta, including all the different explanations by later āchāryas. This includes
-the positions of the bhāmatī and vivaraṇa scools.
+The siddhānta lesha saṅgraha is a comprehensive text by Appayya Dikshita which summarizes
+the entire advaita siddhānta, including all the different explanations by later āchāryas.
+This includes the positions of the bhāmatī and vivaraṇa scools.
 
 ### Links (class recordings):
 
@@ -45,3 +45,15 @@ the positions of the bhāmatī and vivaraṇa scools.
 [sls-ks-1]: https://www.youtube.com/watch?v=GmcEAE3ecf8&list=PLlNdduOe1pp3rOWShjN0ldFi0UmsBrhvH
 [sls-ks-2]: https://www.youtube.com/watch?v=3ocibFkobB8&list=PLlNdduOe1pp29SHlFMjpMneSjF-jjoxhB
 [sls-ks-3]: https://www.youtube.com/watch?v=8YrfDr2JDFo&list=PLlNdduOe1pp0UeAvwQzkYx5dKIwQ4iBTm
+
+## vedānta sāra
+
+The vedānta sāra is a popular introductory text for the siddhānta.
+
+### Links (texts):
+
+- [vedānta sāra with vidyottamā vyākhyā][vs-vo]
+- [vedānta sāra with subodhinī][vs-su]
+
+[vs-vo]: https://archive.org/details/VedantaSaraKrishnaKantaTripathi
+[vs-su]: https://archive.org/details/SadanandasVedantaSaraHindi
