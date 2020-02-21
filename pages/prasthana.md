@@ -22,11 +22,14 @@ The contents of the prasthāna bheda include:
 - where the darshanas fit into the 14 vidyā sthānas
 - where the puruṣhārthas fit into the 14 vidyā sthānas
 
-### Links:
+### Links (texts):
 
 - [prasthāna bheda saṁskr̥it text][pb-s]
 - [prasthāna bheda with english translation][pb-e]
 - [prasthāna bheda with hindi translation][pb-h]
+
+### Links (class recordings):
+
 - [prasthāna bheda saṁskr̥it youtube class recordings by shrī narendra kapre][pb-y-san]
 - [prasthāna bheda english youtube class recordings by shrī abhishek giri][pb-y-eng]
 

@@ -20,7 +20,7 @@ navya nyāya.
 Swami madhavananda writes that 'the vedānta paribhāṣhā is the most widely read book
 on [vedānta] philosophy next to sadananda yogindra's vedanta sara'.
 
-### Links
+### Links (class recordings):
 
 - [ongoing sanskrit lectures on the vedānta paribhāṣā by shrī maheshwaran][vp-m]
 - [lectures on the vedānta paribhāṣā by dravidāchārya][vp-sn]
@@ -34,7 +34,7 @@ The siddhānta lesha saṅgraha is a text by Appayya Dikshita which summarizes 
 advaita siddhānta, including all the different explanations by later āchāryas. This includes
 the positions of the bhāmatī and vivaraṇa scools.
 
-### Links
+### Links (class recordings):
 
 - [class recordings on the siddhānta lesha saṅgraha by dravidāchārya][sls-sn]
 - [sanskrit youtube recordings by shrī kuṭumba shāstrī - Part 1][sls-ks-1]
