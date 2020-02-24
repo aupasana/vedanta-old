@@ -15,20 +15,24 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 
 ### Links (texts):
 
+- [dīpīkā with english translation by swami virupakshananda][ts-sv]
 - [dīpīkā with hindi translation by ānand jhā][ts-jha]
 - [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
-- [dīpīkā with english translation by swami virupakshananda][ts-sv]
 
 ### Links (class recordings):
 
-- [class recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
+- [hindi recordings on the mūlā and dīpīkā by pradyumna jī mahārāj][ts-vg]
+- [english recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
 - [sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
+- [sanskrit youtube recordings on navya nyāya and nyāya bodhinī by m.a alwar][ts-ma]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-db]: https://archive.org/details/TarkaSangrahaHindiTransDayanandaBhargava
 [ts-sn]: http://shastranethralaya.org/discourse/03tarka/
 [ts-sv]: https://www.exoticindiaart.com/book/details/tarka-samgraha-IDG912/
 [ts-y-sb]: https://www.youtube.com/watch?v=qvP65AIaHcI&list=PLYBqfL4ycMjsRkQI6wg6w8aPKIXScMKRp
+[ts-vg]: https://www.youtube.com/playlist?list=PLZTv2kq6rgXob1MAAKj-G0eHVX9nIhvvl
+[ts-ma]: https://www.youtube.com/watch?v=a8XZdVDzLis&list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt
 
 # nyāya siddhānta muktāvalī
 
