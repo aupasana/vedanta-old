@@ -9,7 +9,11 @@ title: samskrit
 
 ### sambhāṣhaṇa
 
-Spoken saṁskr̥it is best learnt through [saṁskr̥ita bhāratī](http://samskritabharati.org)
+Spoken saṁskr̥it is best learnt through [saṁskr̥ita bhāratī](http://samskritabharati.org).
+Rashtriya Sanskrit Sansthan has published a set of 120 videos with classes in their style.
+They are available [on youtube][rss]
+
+[rss]: https://www.youtube.com/channel/UCNRBEtL5Xd3AuVqYuI32hmg/playlists
 
 ### basic saṁskr̥it
 
