@@ -46,4 +46,4 @@ school. It is typically studied after the tarka saṅgraha.
 - [muktāvalī and english translation by swami mādhavānanda][nm-sm]
 
 [nm-lbs]: https://archive.org/details/KarikavaliLalBahadurShastriSanskriVidyapeeth
-[nm-sm]: https://www.exoticindiaart.com/book/details/bhasa-pariccheda-with-siddhanta-muktavali-IDJ655/
+[nm-sm]: https://archive.org/details/Acc.No.6307BhashaPariccheda

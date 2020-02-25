@@ -20,6 +20,14 @@ navya nyāya.
 Swami madhavananda writes that 'the vedānta paribhāṣhā is the most widely read book
 on [vedānta] philosophy next to sadananda yogindra's vedanta sara'.
 
+### Links (texts):
+
+- [vedanta paribhasha english translation by swami madhavananda][vp-sm]
+- [methods of knowledge by swami satprakashananda][mk-ss]
+
+[vp-sm]: https://archive.org/details/in.ernet.dli.2015.274627
+[mk-ss]: https://archive.org/details/MethodsOfKnowledgeSwamiSatprakashananda
+
 ### Links (class recordings):
 
 - [ongoing sanskrit lectures on the vedānta paribhāṣā by shrī maheshwaran][vp-m]
