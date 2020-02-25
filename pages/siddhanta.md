@@ -18,7 +18,7 @@ discusses the viṣhaya and phala as well. This text requires a good grounding i
 navya nyāya.
 
 Swami madhavananda writes that 'the vedānta paribhāṣhā is the most widely read book
-on [vedānta] philosophy next to sadananda yogindra's vedanta sara'.
+on [vedānta] philosophy next to sadananda yogindra's vedānta sāra'.
 
 ### Links (texts):
 
@@ -65,3 +65,11 @@ The vedānta sāra is a popular introductory text for the siddhānta.
 
 [vs-vo]: https://archive.org/details/VedantaSaraKrishnaKantaTripathi
 [vs-su]: https://archive.org/details/SadanandasVedantaSaraHindi
+
+### Links (class recordings):
+
+- [class recordings by swami paramārthānanda][vs-sp]
+
+[vs-sp]: https://archive.org/search.php?query=%28Parmarthananda%20OR%20Parmarthananada%20OR%20Parmarathananada%29%20AND%20%28VedantaSara%20OR%20%22Vedanta%20Sara%22%29
+
+
