@@ -18,7 +18,9 @@ mīmāmsā nyāya prakāsha is the introductory text for mīmāmsā sha�
 # artha saṅgraha
 
 Some āchāryas teach the artha saṅgraha instead of the mīmāmsā nyāya prakāsha
-as the introductory text for mīmāmsā shāstra.
+as the introductory text for mīmāmsā shāstra. According to drāvidāchārya,
+students who wish to study furthur then take up the mānameyodaya and nyāya māla
+with vistara.
 
 ### Links (texts):
 
