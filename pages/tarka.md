@@ -18,6 +18,7 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 - [dīpīkā with english translation by swami virupakshananda][ts-sv]
 - [dīpīkā with hindi translation by ānand jhā][ts-jha]
 - [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
+- [tarka saṅgraha with english translation by VN jhā][ts-e-jha]
 
 ### Links (class recordings):
 
@@ -27,6 +28,7 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 - [sanskrit youtube recordings on navya nyāya and nyāya bodhinī by m.a alwar][ts-ma]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
+[ts-e-jha]: https://archive.org/details/TarkasangrahaOfAnnambhattaVNJha
 [ts-db]: https://archive.org/details/TarkaSangrahaHindiTransDayanandaBhargava
 [ts-sn]: http://shastranethralaya.org/discourse/03tarka/
 [ts-sv]: https://www.exoticindiaart.com/book/details/tarka-samgraha-IDG912/
