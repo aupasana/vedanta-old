@@ -21,9 +21,9 @@ The traditional study of vedānta is summarized below:
 
 #### Study of prasthāna traya bhāṣhya
 
-1. upaniṣhads with bhāṣhya
-2. gītā with bhāṣhya
-3. brahma sūtras with bhāṣhya
+1. [upaniṣhads with bhāṣhya][pages/prasthana_traya]
+2. [gītā with bhāṣhya][pages/prasthana_traya]
+3. [brahma sūtras with bhāṣhya][pages/prasthana_traya]
 
 #### Study of advanced texts and vāda granthas
 
