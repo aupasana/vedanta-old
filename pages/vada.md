@@ -9,9 +9,9 @@ title: vada
 
 ### Links (texts):
 
-[śhata bhūṣaṇī by mahāmahopādhyāya ananta kr̥iṣhṇa śhāstrī][sb]
-[chitsukhī by chitsukhāchārya][cs]
-[khaṇḍana khaṇḍa khādya][kkk]
+- [śhata bhūṣaṇī by mahāmahopādhyāya ananta kr̥iṣhṇa śhāstrī][sb]
+- [chitsukhī by chitsukhāchārya][cs]
+- [khaṇḍana khaṇḍa khādya][kkk]
 
 [sb]: https://archive.org/details/in.ernet.dli.2015.486471
 [cs]: https://archive.org/details/in.ernet.dli.2015.513500
