@@ -43,3 +43,6 @@ The traditional study of vedānta is summarized below:
 - [bhamati and vivarana](pages/bhamati_vivarana)
 - [siddhi literature](pages/siddhi)
 - [various links and resources](pages/links)
+- [doctrinal differences between darśhanas][mm-dd]
+
+[mm-dd]: https://archive.org/details/ManameyodayaAnElementaryTreatiseOfMimansaOfNarayana1933TheosophicalPublishingHouse/page/n39
