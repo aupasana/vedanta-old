@@ -27,10 +27,10 @@ The traditional study of vedānta is summarized below:
 
 #### Study of advanced texts and vāda granthas
 
-1. bhāmatī and vivaraṇa prameya saṅgraha
-2. [advaita siddhi][pages/siddhi]
-3. [khaṇḍana khaṇḍa khādya][pages/vada]
-4. [chitsukhī][pages/vada]
+1. [bhāmatī](pages/bhamati_vivarana) and [vivaraṇa prameya saṅgraha](pages/bhamati_vivarana)
+2. [advaita siddhi](pages/siddhi)
+3. [khaṇḍana khaṇḍa khādya](pages/vada)
+4. [chitsukhī](pages/vada)
 
 # Syllabus
 
