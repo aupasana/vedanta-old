@@ -22,10 +22,10 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 
 ### Links (class recordings):
 
-- [hindi recordings on the mūlā and dīpīkā by pradyumna jī mahārāj][ts-vg]
 - [english recordings on the mūlā, nyāya bodhinī and pakakr̥itya by dravidāchārya][ts-sn]
-- [sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
 - [sanskrit youtube recordings on navya nyāya and nyāya bodhinī by m.a alwar][ts-ma]
+- [ongoing hindi recordings on the mūlā and dīpīkā by pradyumna jī mahārāj][ts-vg]
+- [partial sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-e-jha]: https://archive.org/details/TarkasangrahaOfAnnambhattaVNJha
