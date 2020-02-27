@@ -26,6 +26,7 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 - [sanskrit youtube recordings on navya nyāya and nyāya bodhinī by m.a alwar][ts-ma]
 - [ongoing hindi recordings on the mūlā and dīpīkā by pradyumna jī mahārāj][ts-vg]
 - [partial sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
+- [sanskrit recordings on the tarka saṅgraha and vidyādharī][ts-sd]
 
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-e-jha]: https://archive.org/details/TarkasangrahaOfAnnambhattaVNJha
@@ -35,6 +36,7 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 [ts-y-sb]: https://www.youtube.com/watch?v=qvP65AIaHcI&list=PLYBqfL4ycMjsRkQI6wg6w8aPKIXScMKRp
 [ts-vg]: https://www.youtube.com/playlist?list=PLZTv2kq6rgXob1MAAKj-G0eHVX9nIhvvl
 [ts-ma]: https://www.youtube.com/watch?v=a8XZdVDzLis&list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt
+[ts-sd]: https://archive.org/details/Nyaya-Shastram---Vidyadharii
 
 # nyāya siddhānta muktāvalī
 
