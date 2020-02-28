@@ -56,15 +56,20 @@ This includes the positions of the bhāmatī and vivaraṇa scools.
 
 ## vedānta sāra
 
-The vedānta sāra is a popular introductory text for the siddhānta.
+The vedānta sāra is a popular introductory text for the siddhānta. In modern circles,
+the tattva bodha is also popular.
 
 ### Links (texts):
 
 - [vedānta sāra with vidyottamā vyākhyā][vs-vo]
 - [vedānta sāra with subodhinī][vs-su]
+- [tattva bodha with hindi translation][tb-h]
+- [tattva bodha with english translation][tb-e]
 
 [vs-vo]: https://archive.org/details/VedantaSaraKrishnaKantaTripathi
 [vs-su]: https://archive.org/details/SadanandasVedantaSaraHindi
+[tb-h]: https://archive.org/details/TattvabodhaHindi
+[tb-e]: https://archive.org/details/Acc.No.13056TattvaBodha1997
 
 ### Links (class recordings):
 
