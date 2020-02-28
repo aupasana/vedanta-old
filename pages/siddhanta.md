@@ -68,7 +68,7 @@ the tattva bodha is also popular.
 
 [vs-vo]: https://archive.org/details/VedantaSaraKrishnaKantaTripathi
 [vs-su]: https://archive.org/details/SadanandasVedantaSaraHindi
-[tb-h]: https://archive.org/details/TattvabodhaHindi
+[tb-h]: https://archive.org/details/TattvaBodhaOfShankaracharyaMasterKherilalAndSons
 [tb-e]: https://archive.org/details/Acc.No.13056TattvaBodha1997
 
 ### Links (class recordings):
