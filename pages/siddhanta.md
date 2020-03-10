@@ -63,11 +63,13 @@ the tattva bodha is also popular.
 
 - [vedānta sāra with vidyottamā vyākhyā][vs-vo]
 - [vedānta sāra with subodhinī][vs-su]
+- [vedānta sāra with english translation][vs-e]
 - [tattva bodha with hindi translation][tb-h]
 - [tattva bodha with english translation][tb-e]
 
 [vs-vo]: https://archive.org/details/VedantaSaraKrishnaKantaTripathi
 [vs-su]: https://archive.org/details/SadanandasVedantaSaraHindi
+[vs-e]: https://estudantedavedanta.net/Vedantasara-Nikhilananda.pdf
 [tb-h]: https://archive.org/details/TattvaBodhaOfShankaracharyaMasterKherilalAndSons
 [tb-e]: https://archive.org/details/Acc.No.13056TattvaBodha1997
 

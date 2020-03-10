@@ -5,17 +5,22 @@ title: links and resources
 
 {::options parse_block_html="true" /}
 
-# online resources
+# online resources (audio)
 
 - [audio classes by Dravidacharya Sri Ramakrishnan Swamiji][sn]
 - [audio classes of a 3 year long term Arsha Vidya residential class][avg]
-- [maṇi dravid shāstrigal's tamil upaniṣhad bhāṣya classes][md-up]
 - [swami paramarthananda's class recordings][sp]
+- [maṇi dravid shāstrigal's tamil upaniṣhad bhāṣya classes][md-up]
+
 - [veda dharma shāstra paripālana sabhā tamil lectures][vdsps]
 - [vedanta hub](https://www.vedantahub.org)
-- [advaita sharada](https://advaitasharada.sringeri.net)
 - [advaita academy](http://www.advaita-academy.org/)
 - [vyoma labs](https://www.sanskritfromhome.in)
+
+# online resources (texts)
+
+- [advaita sharada](https://advaitasharada.sringeri.net)
+- [voice of śankara back issues](http://advaitacentre.org/archives/)
 
 [sn]: http://shastranethralaya.org/discourse/?lang=english
 [avg]: https://arshavidya.in/product/fifth-3-year-long-term-course-2010-2013/
