@@ -7,6 +7,8 @@ title: tenali vedanta syllabus
 
 The 5 year syllabus for swami omkarananda's atma vidya course is given below.
 
+- jiva yatra
+- sadhana panchakam
 - tattva bodha
 - anubhuti prakasha
 - manu smriti
