@@ -23,4 +23,4 @@ The 5 year syllabus for swami omkarananda's atma vidya course is given below.
 
 ## Links
 
-- [atma vidya course][https://atmavidya.online/]
+- [atma vidya course](https://atmavidya.online/)
