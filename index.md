@@ -34,6 +34,7 @@ The traditional study of vedānta is summarized below:
 
 # Syllabus
 
+- [introductory syllabus by swami omkarananda](pages/syllabus/atmavidya)
 - [vedānta syllabus based on online resources](pages/syllabus/online)
 - [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
 - [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
