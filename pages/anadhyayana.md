@@ -1,24 +1,21 @@
 ---
 layout: default
-title: mimamsa
+title: adhyayana and anadhyayana days
 ---
 
 {::options parse_block_html="true" /}
 
-# vedanta paribhasha
+# adhyayana and anadhyayana days
 
+In the study of vedas and it's śhāstras, adhyayana takes place on all days except:
 
-### Links:
+- amāvāsyā
+- śhukla prathamā
+- śhukla aṣhtamī
+- śhukla chaturdaśhī
+- paurṇamī
+- kr̥iṣhṇa prathamā
+- kr̥iṣhṇa aṣhtamī
+- kr̥iṣhṇa chaturdaśhī
 
-- [prakāsha with hindi translation by paṭṭābhirāma shāstrī][np-ps]
-
-[np-ps]: https://archive.org/details/MimamsaNyayaPrakashaPt.KamlapatiTripathi
-
-# siddhanta lesa sangraha
-
-
-### Links:
-
-- [class recordings on the artha saṅgraha by dravidāchārya][as-sn]
-
-[as-sn]: http://shastranethralaya.org/discourse/03tarka/
+i.e. adhyayana takes place for 22 days every lunar month. 
