@@ -17,6 +17,8 @@ title: links and resources
 - [advaita academy](http://www.advaita-academy.org/)
 - [vyoma labs](https://www.sanskritfromhome.in)
 
+- [shankara bhashya audio](https://archive.org/details/@30nov1957)
+
 # online resources (texts)
 
 - [advaita sharada](https://advaitasharada.sringeri.net)
