@@ -79,4 +79,10 @@ the tattva bodha is also popular.
 
 [vs-sp]: https://archive.org/search.php?query=%28Parmarthananda%20OR%20Parmarthananada%20OR%20Parmarathananada%29%20AND%20%28VedantaSara%20OR%20%22Vedanta%20Sara%22%29
 
+## Other resources
 
+- [advaita vedanta prameya parichaya by veda vijnana shodha samthana][avpp]
+- [vedanta parichaya in tamil by the sringeri jagadguru][v-sringeri]
+
+[avpp]: https://www.youtube.com/playlist?list=PLsyIVjh3EwbfeSE2OvFM3RdfpNjdjhG08
+[v-sringeri]: https://www.youtube.com/playlist?list=PLNtvk0Opgzv_rqUMf1Pq0yM4qdVW8a0ZS
