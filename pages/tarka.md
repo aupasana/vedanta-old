@@ -16,6 +16,8 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 ### Links (texts):
 
 - [dīpīkā with english translation by swami virupakshananda][ts-sv]
+- [dīpīkā with prakasa sub-commentary][ts-dp]
+- [dīpīkā with kiranavali sub-commentary][ts-dk]
 - [dīpīkā with hindi translation by ānand jhā][ts-jha]
 - [dīpīkā with hindi translation by dayānand bhārgava][ts-db]
 - [tarka saṅgraha with english translation by VN jhā][ts-e-jha]
@@ -29,6 +31,8 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 - [sanskrit recordings on the tarka saṅgraha and vidyādharī][ts-sd]
 - [sanskrit youtube recordings on tarka saṅgraha by veda vijnana shodha samsthan][ts-vv]
 
+[ts-dp]: https://archive.org/details/tarka-sangraha-with-commentary-notes-kc-mehendele-1908-pdf
+[ts-dk]: https://archive.org/details/tarkasangrahanyayabodhinipadakrutyadipikakiranvalliofkrishnavallbhacharya_202002
 [ts-jha]: https://archive.org/details/TarkaSangrahaDeepikaAcharyaAnandJha
 [ts-e-jha]: https://archive.org/details/TarkasangrahaOfAnnambhattaVNJha
 [ts-db]: https://archive.org/details/TarkaSangrahaHindiTransDayanandaBhargava
