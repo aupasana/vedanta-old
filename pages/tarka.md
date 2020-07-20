@@ -31,6 +31,8 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 - [partial sanskrit youtube recordings on the mūlā, nyāya bodhinī and pakakr̥itya by shrī rāmapriya][ts-y-sb]
 - [sanskrit recordings on the tarka saṅgraha and vidyādharī][ts-sd]
 - [sanskrit youtube recordings on tarka saṅgraha by veda vijnana shodha samsthan][ts-vv]
+- [tarka sangraha with nyayabodhini by swami shanti dharmananda][ts-nb-sd]
+- [tarka sangraha with padakritya by swami shanti dharmananda][ts-pk-sd]
 
 [ts-dp]: https://archive.org/details/tarka-sangraha-with-commentary-notes-kc-mehendele-1908-pdf
 [ts-dk]: https://archive.org/details/tarkasangrahanyayabodhinipadakrutyadipikakiranvalliofkrishnavallbhacharya_202002
@@ -45,6 +47,8 @@ celebrated gādhādharī, the dīpīkā is also known as the bāla gādh
 [ts-ma]: https://www.youtube.com/watch?v=a8XZdVDzLis&list=PL7_6YPlfLKeRttlUiKQFoIpM1eNhyhUmt
 [ts-sd]: https://archive.org/details/Nyaya-Shastram---Vidyadharii
 [ts-vv]: https://www.youtube.com/watch?v=IqFdbV2G1e0&list=PLsyIVjh3Ewbds6C9zzDhTQhQooloPNn4S
+[ts-nb-sd]: https://www.youtube.com/watch?v=92ILAtPURec&list=PLOK49oELkE2PIFFaMuaarQiShWQxJpvuF
+[ts-pk-sd]: https://www.youtube.com/watch?v=O1eY3I1QY_s&list=PLOK49oELkE2Mutn3D1qnC0DbBiuqCISWk
 
 # nyāya siddhānta muktāvalī
 

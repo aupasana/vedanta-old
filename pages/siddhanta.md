@@ -76,8 +76,10 @@ the tattva bodha is also popular.
 ### Links (class recordings):
 
 - [class recordings by swami paramārthānanda][vs-sp]
+- [vedanta sara with vidvanmanoranjani in sanskrit by Dr. Ganesh Bhat][vs-gb]
 
 [vs-sp]: https://archive.org/search.php?query=%28Parmarthananda%20OR%20Parmarthananada%20OR%20Parmarathananada%29%20AND%20%28VedantaSara%20OR%20%22Vedanta%20Sara%22%29
+[vs-gb]: https://www.youtube.com/watch?v=2zD2dPi5KZ0&list=PLjhlL6tQEqLRahetLycVbOjWV8Lqt2djs
 
 ## Other resources
 
