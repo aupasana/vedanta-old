@@ -9,7 +9,11 @@ This syllabus is taken from http://blog.shastranethralaya.org/?page_id=2
 
 ## पाठ्यक्रमः
 
+
+
 ### First stage
+
+For those who are interested in understanding the basics of vedanta with a good grasp of the subject.
 
 - sadhana panchakam
 - tattva bodha
@@ -17,17 +21,30 @@ This syllabus is taken from http://blog.shastranethralaya.org/?page_id=2
 
 ### Second stage
 
+For those who want to understand the intricacies of vedanta without worrying about other shastras.
+
+- First stage +
 - other prakarana texts
 - panchadashi
 
 ### Third stage
 
-- other shastras
+For those who want to have a complete grasp over shastra
+
+- First stage +
+- Other shastras +
 - vedanta paribhasha
+- panchadashi
 - prasthana traya
+  - gita bhashya
+  - upanishad bhashya
+  - brahma sutra bhashya
 
 ### Turiya stage
 
+For those who want to study the shastras completely, and be independent of any doubts
+
+- Third stage +
 - Bhagavad gita (gudartha dipika)
 - brihad prasthana
   - advaita siddhi
