@@ -7,17 +7,29 @@ title: online vedanta syllabus
 
 ## vedānta syllabus based on online resources
 
+### Introduction to Vedanta
+
 | shāstra | grantha                   | āchārya & recordings             | language | format  |
 | ------- | ------------------------- | -------------------------------- | -------- | ------- |
 | vedanta | tattva bodha              | [swami brahmanand][tb]           | hindi    | youtube |
 | vedanta | vedanta prabodha          | [swami paramananda][vpr]         | hindi    | youtube |
 | vedānta | vedānta sāra              | [swāmī sarvapriyananda][vs]      | english  | youtube |
-| tarka   | tarka saṅgraha (padakriya)| [swami brahmanand][ts-pk]        | hindi    | youtube |
-| tarka   | tarka saṅgraha (bodhini)  | [swami brahmanand][ts-bo]        | hindi    | youtube |
-| mīmāmsā | artha saṅgraha            | [swami brahmanand][as]           | hindi    | youtube |
-| vedānta | vedānta paribhāṣhā        | [mani dravid shastri][vp-md]     | hindi    | youtube |
-|         |                           | [swami vijayananda][vp-vi]       | hindi    | youtube |
-| vedānta | siddhānta lesha saṅgraha  | [shrī kuṭumba shāstrī][sls]      | saṁskr̥it | youtube |
+
+### Shastra Prerequisites
+
+| shāstra | grantha                    | āchārya & recordings             | language | format  |
+| ------- | -------------------------- | -------------------------------- | -------- | ------- |
+| tarka   | tarka saṅgraha (padakritya)| [swami brahmanand][ts-pk]        | hindi    | youtube |
+| tarka   | tarka saṅgraha (bodhini)   | [swami brahmanand][ts-bo]        | hindi    | youtube |
+| mīmāmsā | artha saṅgraha             | [swami brahmanand][as]           | hindi    | youtube |
+| vedānta | vedānta paribhāṣhā         | [mani dravid shastri][vp-md]     | hindi    | youtube |
+|         |                            | [swami vijayananda][vp-vi]       | hindi    | youtube |
+| vedānta | siddhānta lesha saṅgraha   | [shrī kuṭumba shāstrī][sls]      | saṁskr̥it | youtube |
+
+### Prasthana Traya
+
+| shāstra | grantha                   | āchārya & recordings             | language | format  |
+| ------- | ------------------------- | -------------------------------- | -------- | ------- |
 | bhāṣhya | upaniṣhad bhāṣhya         | [shāstra nethrālaya][up]         | english  | mp3     |
 | bhāṣhya | bhagavad gītā bhāṣhya     | [shāstra nethrālaya][gi]         | english  | mp3     |
 | bhāṣhya | brahma sūtra bhāmatī      | [shāstra nethrālaya][bs]         | english  | mp3     |
