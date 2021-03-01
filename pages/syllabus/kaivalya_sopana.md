@@ -15,8 +15,8 @@ are avilable online.
 - [samgya sandhi prakarana](https://www.youtube.com/playlist?list=PLtDshib-Njgac0EtKYOUZ6didNP4mARPU)
 - [shad linga prakarana](https://www.youtube.com/playlist?list=PLtDshib-Njga7t63XWIWlS7dxU3tpqTP4)
 - [dasha gana prakarana](https://www.youtube.com/playlist?list=PLtDshib-NjgZHiU-jIucz2TtZvTTzEmnn)
-- [kridanta prakarana](https://www.youtube.com/playlist?list=PLtDshib-Njga7AozQaZ92Zmsg2Ck7PWwt)
 - [nyantadi prakarana](https://www.youtube.com/playlist?list=PLtDshib-NjgbMKROcZZvSTGjt0jAbNyMF)
+- [kridanta prakarana](https://www.youtube.com/playlist?list=PLtDshib-Njga7AozQaZ92Zmsg2Ck7PWwt)
 - [samasa prakarana](https://www.youtube.com/playlist?list=PLtDshib-NjgancJmOOZ68w4zKVi7dOTl2)
 - [taddhita prakarana](https://www.youtube.com/playlist?list=PLtDshib-Njga3w2Oq5-Ce8NbbqA11r-ne)
 
