@@ -15,7 +15,8 @@ title: online vedanta syllabus
 | tarka   | tarka saṅgraha (padakriya)| [swami brahmanand][ts-pk]        | hindi    | youtube |
 | tarka   | tarka saṅgraha (bodhini)  | [swami brahmanand][ts-bo]        | hindi    | youtube |
 | mīmāmsā | artha saṅgraha            | [swami brahmanand][as]           | hindi    | youtube |
-| vedānta | vedānta paribhāṣhā        | [mani dravid shastri][vp]        | hindi    | youtube |
+| vedānta | vedānta paribhāṣhā        | [mani dravid shastri][vp-md]     | hindi    | youtube |
+|         |                           | [swami vijayananda][vp-vi]       | hindi    | youtube |
 | vedānta | siddhānta lesha saṅgraha  | [shrī kuṭumba shāstrī][sls]      | saṁskr̥it | youtube |
 | bhāṣhya | upaniṣhad bhāṣhya         | [shāstra nethrālaya][up]         | english  | mp3     |
 | bhāṣhya | bhagavad gītā bhāṣhya     | [shāstra nethrālaya][gi]         | english  | mp3     |
@@ -28,7 +29,8 @@ title: online vedanta syllabus
 [ts-pk]: https://www.youtube.com/playlist?list=PLtDshib-Njga2BasXjVva8mvDcO7Zwni8
 [ts-bo]: https://www.youtube.com/playlist?list=PLtDshib-NjgauT8KJ4i_8LM9KzT-mk5QL
 [as]: http://shastranethralaya.org/discourse/poorva-mimasa-discourse
-[vp]: https://www.youtube.com/playlist?list=PL_2KW3e9H3WVENNz8c01eX_w-tiIL-NW8
+[vp-md]: https://www.youtube.com/playlist?list=PL_2KW3e9H3WVENNz8c01eX_w-tiIL-NW8
+[vp-vi]: https://www.youtube.com/playlist?list=PLO4NAhrjPr29T5Q-CJ-g0nx0oirDJ5gFO
 [sls]: https://www.youtube.com/watch?v=GmcEAE3ecf8&list=PLlNdduOe1pp3rOWShjN0ldFi0UmsBrhvH
 [up]: http://shastranethralaya.org/discourse/upanishad
 [gi]: http://shastranethralaya.org/discourse/bhagavadgita
