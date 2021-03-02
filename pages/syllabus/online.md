@@ -7,7 +7,7 @@ title: online vedanta syllabus
 
 ## vedānta syllabus based on online resources
 
-### Introduction to Vedanta
+### Vedanta siddhanta
 
 | shāstra | grantha                   | āchārya & recordings             | language | format  |
 | ------- | ------------------------- | -------------------------------- | -------- | ------- |
