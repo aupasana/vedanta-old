@@ -13,13 +13,13 @@ title: online vedanta syllabus
 | ------- | ------------------------- | -------------------------------- | -------- | ------- |
 | vedanta | tattva bodha              | [swami brahmanand][tb]           | hindi    | youtube |
 | vedanta | vedanta prabodha          | [swami paramananda][vpr]         | hindi    | youtube |
-| vedānta | vedānta sāra              | [swāmī sarvapriyananda][vs]      | english  | youtube |
+| vedānta | vedānta sāra              | [swāmī vijayananda][vs]          | hindi    | youtube |
 | vedanta | viveka chudamani          | [swami brahmanand][vc]           | hindi    | youtube |
 | vedanta | panchadashi               | [swami brahmanand][pd]           | hindi    | youtube |
 
 [tb]: https://www.youtube.com/playlist?list=PLtDshib-NjgYjKw3JD_ZI4PKS3NbUXEmE
 [vpr]: https://www.youtube.com/playlist?list=PLp9fxzXvHg3eEHACUBMLjlA4mi5HM_FY7
-[vs]: https://www.youtube.com/playlist?list=PLDqahtm2vA70ccqIRFR_lipqKvxrHBRRw
+[vs]: https://www.youtube.com/playlist?list=PLO4NAhrjPr2-bJTnTdAGwWa5vHjfkUpBA
 [vc]: https://www.youtube.com/playlist?list=PLtDshib-NjgZ3gQ9HsKlg_Zn77KRh6HF1
 [pd]: https://www.youtube.com/playlist?list=PLtDshib-NjgYVV9QH7D9ZNxXk5NAIwk32
 
@@ -45,12 +45,10 @@ title: online vedanta syllabus
 
 | shāstra | grantha                   | āchārya & recordings             | language | format  |
 | ------- | ------------------------- | -------------------------------- | -------- | ------- |
-| bhāṣhya | upaniṣhad bhāṣhya         | [shāstra nethrālaya][up]         | english  | mp3     |
-| bhāṣhya | bhagavad gītā bhāṣhya     | [shāstra nethrālaya][gi]         | english  | mp3     |
-| bhāṣhya | brahma sūtra bhāmatī      | [shāstra nethrālaya][bs]         | english  | mp3     |
-| vāda    | advaita siddhi            | [shāstra nethrālaya][asi]        | english  | mp3     |
+| bhāṣhya | upaniṣhad - isha          | [swami vijayananda][up-is]       | hindi    | youtube |
+| bhāṣhya | upaniṣhad - kena          | [swami vijayananda][up-ke]       | hindi    | youtube |
+| bhāṣhya | bhagavad gītā bhāṣhya     | [swami brahmanand][gita]         | hindi    | youtube |
 
-[up]: http://shastranethralaya.org/discourse/upanishad
-[gi]: http://shastranethralaya.org/discourse/bhagavadgita
-[bs]: http://shastranethralaya.org/subject/brahmasutra
-[asi]: http://shastranethralaya.org/subject/advaita-siddhi
+[up-is]: https://www.youtube.com/playlist?list=PLO4NAhrjPr2986DoamsLQJx1ElNErjVvH
+[up-ke]: https://www.youtube.com/playlist?list=PLO4NAhrjPr29TQKSshOvhkGMj-heg2Gki
+[gita]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA/playlists
