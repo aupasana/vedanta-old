@@ -9,19 +9,19 @@ title: vedānta
 
 The traditional study of vedānta is summarized below:
 
-#### 1. Basics
+#### First, the basics
 
 1. basic saṁskr̥it and vyākaraṇa
 2. tarka and mīmāmsā
 3. vedānta pramāṇa and prameya
 
-#### 2. Study of prasthāna traya bhāṣhya
+#### Then the main study of prasthāna traya bhāṣhya
 
 1. upaniṣhads with shankaracharya's bhāṣhya
 2. gītā with shankaracharya's bhāṣhya
 3. brahma sūtras with shankaracharya's bhāṣhya
 
-#### 3. Advanced study
+#### And finally, the advanced study
 
 1. bhāmatī and vivaraṇa prameya saṅgraha
 2. advaita siddhi
