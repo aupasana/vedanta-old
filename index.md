@@ -7,7 +7,8 @@ title: vedānta
 
 # vedānta
 
-The traditional study of vedānta is summarized below:
+The traditional study of vedānta is summarized below.
+Some additional details are [given here](pages/approach)
 
 #### First, the basics
 
