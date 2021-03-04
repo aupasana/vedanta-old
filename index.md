@@ -1,43 +1,45 @@
 ---
 layout: default
-title: vedānta
+title: vedānta
 ---
 
 {::options parse_block_html="true" /}
 
-# vedānta
+# vedānta
 
-The traditional study of vedānta is summarized below:
+The traditional study of vedānta is summarized below:
 
-#### Pre-requisites
+#### 1. Basics
 
-1. [basic saṁskr̥it and vyākaraṇa](pages/samskrit)
-2. introduction to [darshanas and prasthānas](pages/prasthana).
+1. basic saṁskr̥it and vyākaraṇa
+2. tarka and mīmāmsā
+3. vedānta pramāṇa and prameya
 
-#### Study of shāstras
+#### 2. Study of prasthāna traya bhāṣhya
 
-1. [tarka](pages/tarka) and [mīmāmsā](pages/mimamsa)
-2. [vedānta pramāṇa](pages/siddhanta) and [siddhānta](pages/siddhanta)
+1. upaniṣhads with shankaracharya's bhāṣhya
+2. gītā with shankaracharya's bhāṣhya
+3. brahma sūtras with shankaracharya's bhāṣhya
 
-#### Study of prasthāna traya bhāṣhya
+#### 3. Advanced study
 
-1. [upaniṣhads with bhāṣhya](pages/prasthana_traya)
-2. [gītā with bhāṣhya](pages/prasthana_traya)
-3. [brahma sūtras with bhāṣhya](pages/prasthana_traya)
-
-#### Study of advanced texts and vāda granthas
-
-1. [bhāmatī](pages/bhamati_vivarana) and [vivaraṇa prameya saṅgraha](pages/bhamati_vivarana)
-2. [advaita siddhi](pages/siddhi)
-3. [khaṇḍana khaṇḍa khādya](pages/vada)
-4. [chitsukhī](pages/vada)
+1. bhāmatī and vivaraṇa prameya saṅgraha
+2. advaita siddhi
+3. khaṇḍana khaṇḍa khādya
+4. chitsukhī
 
 # Syllabus
 
+Here are a few different approaches to the study:
+
 - [introductory syllabus by swami omkarananda](pages/syllabus/atmavidya)
-- [vedānta syllabus based on online resources](pages/syllabus/online)
-- [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
-- [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
+- [vedānta syllabus by swami paramarthananda](pages/syllabus/paramartha)
+- [vedānta syllabus by swami dravidacharya shri ramakrishnan](pages/syllabus/shastranethralaya)
+
+And here are the famed Tenali and Nagara pariksha syllabus for vedanta:
+
+- [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
+- [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
 
 # Other
 
@@ -45,6 +47,6 @@ The traditional study of vedānta is summarized below:
 - [bhamati and vivarana](pages/bhamati_vivarana)
 - [siddhi literature](pages/siddhi)
 - [various links and resources](pages/links)
-- [doctrinal differences between darśhanas][mm-dd]
+- [doctrinal differences between darśhanas][mm-dd]
 
 [mm-dd]: https://archive.org/details/ManameyodayaAnElementaryTreatiseOfMimansaOfNarayana1933TheosophicalPublishingHouse/page/n39
