@@ -10,20 +10,20 @@ title: the approach
 The [main page](https://aupasana.com/vedanta) outlined the basic order of traditional study. 
 A few addititional details are given here. 
 
-### Sanskrit
+### 1. Sanskrit
 
 A decent working knowledge of Sanskrit and it's grammar is necessary.
 There are many different approaches to this -- both traditional and modern. Some study of
 the mahakavyas, and grammatical texts such as the laghu siddhanta kaumudi is necessary.
 
-### Vedanta prameya
+### 2. Vedanta basics
 
-With a basic grasp of Sanskrit, study some prakaranas which teach the main points of vedanta.
-Study and memorize the tattva bodha. Optionally study additional texts such as vedanta sara.
+With a basic grasp of Sanskrit, study and memorize the tattva bodha. 
+Optionally study prakaranas such as the vedanta sara.
 
-### Shastra
+### 3. Shastra
 
-Before studying the prasthana traya, study the basics of tarka, mimamsa and vedanta in a
+Before studying the prasthana traya, study the essentials of tarka, mimamsa and vedanta in a
 structured way. 
 
 1. Tarka -- Study tarka sangraha with the padakritya, and then again with the nyaya bodhini.
@@ -50,8 +50,9 @@ are given below.
 
 In addition to this, some new youtube channels are particularly useful.
 
-- [video classes by Sw. Brahmanand Giri, in Hindi][br] (including tattva bodha, tarka sangraha, artha sangraha and the bhagavad gita bhashya)
+- [video classes by Sw. Brahmanand Giri, in Hindi][br] (including tattva bodha, tarka sangraha with commentaries, artha sangraha and the bhagavad gita bhashya)
 - [video classes by Sw. Vijayananda Puri, in Hindi][vi] (including the vedanta paribhasha, and some of the upanishad bhashyas with tika)
+- [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in English][sls]
 
 [br]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA
 [vi]: https://www.youtube.com/channel/UCPqECyffnKOhuYV-1GwAdkg
