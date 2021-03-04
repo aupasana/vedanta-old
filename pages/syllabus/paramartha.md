@@ -7,7 +7,8 @@ title: swami paramarthananda's syllabus
 
 ## swami paramarthananda's syllabus
 
-This list is given by Swami Paramarthananda in his catalogue (2019).
+This list is given by Swami Paramarthananda in his catalogue (2019),
+and is based on his classes, in English.
 
 ### Level 1
 
