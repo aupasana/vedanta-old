@@ -7,14 +7,14 @@ title: vedānta
 
 # vedānta
 
-The traditional study of vedānta is summarized below.
-Some additional details are [given here](pages/approach)
+The traditional study of vedānta -- through shastra -- is summarized below.
+See [here](pages/approach) for some additional details and resources.
 
 #### First, the basics
 
-1. basic saṁskr̥it and vyākaraṇa
+1. saṁskr̥it (with vyākaraṇa)
 2. tarka and mīmāmsā
-3. vedānta pramāṇa and prameya
+3. vedānta (pramāṇa and prameya)
 
 #### Then the main study of prasthāna traya bhāṣhya
 
@@ -31,16 +31,17 @@ Some additional details are [given here](pages/approach)
 
 # Syllabus
 
-Here are a few different approaches to the study:
+Here are the famed Tenali and Nagara pariksha syllabus for vedanta:
+
+- [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
+- [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
+
+And here are some other approaches:
 
 - [introductory syllabus by swami omkarananda](pages/syllabus/atmavidya)
 - [vedānta syllabus by swami paramarthananda](pages/syllabus/paramartha)
 - [vedānta syllabus by swami dravidacharya shri ramakrishnan](pages/syllabus/shastranethralaya)
 
-And here are the famed Tenali and Nagara pariksha syllabus for vedanta:
-
-- [vedānta syllabus for the tenali parīkṣhā](pages/syllabus/tenali)
-- [vedānta syllabus for the nagara parīkṣhā](pages/syllabus/nagara)
 
 # Other
 
