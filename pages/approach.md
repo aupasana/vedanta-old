@@ -31,7 +31,7 @@ structured way.
 3. Vedanta (pramana) -- Study the vedanta paribhasha.
 4. Vedanta (prameya) -- Study the siddhanta lesha sangraha.
 
-### Prasthana Traya etc
+### 4. Prasthana Traya etc
 
 Now the main study of the prasthāna traya with bhāṣhya begins, optionally with anandagiri's tika.
 And this is followed by a study of the advanced vada granthas.
