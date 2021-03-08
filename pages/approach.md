@@ -8,11 +8,11 @@ title: the approach
 {::options parse_block_html="true" /}
 
 The [main page](https://aupasana.com/vedanta) outlined the basic order of traditional study. 
-A few addititional details are given here. 
+Here are a few more details.
 
 ### 1. Sanskrit
 
-A decent working knowledge of Sanskrit and it's grammar is necessary.
+A good working knowledge of Sanskrit and it's grammar is necessary.
 There are many different approaches to this -- both traditional and modern. Some study of
 the mahakavyas, and grammatical texts such as the laghu siddhanta kaumudi is necessary.
 
@@ -38,9 +38,8 @@ And this is followed by a study of the advanced vada granthas.
 
 # Resources
 
-This traditional structured approach has continued unbroken for many centuries. Over the last few years,
-recordings of classes using this approach have been uploaded to the internet as well. Some of these
-are given below.
+This traditional structured approach has continued unbroken for many centuries. 
+Many of these recordings are now available online. Some of these are given below:
 
 1. [audio classes by Dravidacharya Sri Ramakrishnan Swamiji of the entire syllabus, in English][sn]
 2. [audio classes by swami shanti dharmananda, in Hindi][sd]
@@ -51,7 +50,7 @@ are given below.
 In addition to this, some new youtube channels are particularly useful.
 
 - [video classes by Sw. Brahmanand Giri, in Hindi][br] (including tattva bodha, tarka sangraha with commentaries, artha sangraha and the bhagavad gita bhashya)
-- [video classes by Sw. Vijayananda Puri, in Hindi][vi] (including the vedanta paribhasha, and some of the upanishad bhashyas with tika)
+- [video classes by Sw. Vijayananda Puri, in Hindi][vi] (including the vedanta paribhasha, ongoing classes of the upanishad bhashyas with tika, and prakarana granthas)
 - [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in English][sls]
 
 [br]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA
