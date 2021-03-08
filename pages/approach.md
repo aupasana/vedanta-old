@@ -55,5 +55,5 @@ In addition to this, some new youtube channels are particularly useful.
 
 [br]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA
 [vi]: https://www.youtube.com/channel/UCPqECyffnKOhuYV-1GwAdkg
-
+[sls]: https://www.youtube.com/playlist?list=PLQ13UlUaFSQRpOArUTwaGmO3g6_LDdE0x
 
