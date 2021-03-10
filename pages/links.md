@@ -7,11 +7,10 @@ title: links and resources
 
 # online resources (audio)
 
-- [audio classes by Dravidacharya Sri Ramakrishnan Swamiji][sn]
-- [audio classes of a 3 year long term Arsha Vidya residential class][avg]
+- [swami shanti dharmananda's hindi class recordings][sd]
+- [Dravidacharya Sri Ramakrishnan swamiji's english class recordings][sn]
+- [Arsha Vidya 3 year residential class recordings][avg]
 - [swami paramarthananda's class recordings][sp]
-- [maṇi dravid shāstrigal's tamil upaniṣhad bhāṣya classes][md-up]
-- [swami shanti dharmananda's hindi recordings on prasthana traya bhashyam and advanced texts][sd]
 
 - [veda dharma shāstra paripālana sabhā tamil lectures][vdsps]
 - [vedanta hub](https://www.vedantahub.org)
@@ -29,16 +28,7 @@ title: links and resources
 [avg]: https://arshavidya.in/product/fifth-3-year-long-term-course-2010-2013/
 [sp]: https://www.yogamalika.org
 [sd]: https://www.youtube.com/channel/UCb9b-V_mNkBL2PcrWaCDN3A/playlists
-[md-up]: https://advaitaonline.info/lectures.php
 [vdsps]: https://www.youtube.com/channel/UCvItbtggl54FxSLyo7-XjxQ/videos
-
-# other
-
-The [kailash ashram's recordings][ka] of their traditional Hindi classes
-are available for purchase if you contact them directly. This includes
-the A-Z of vedānta and related darshanas, as well as advanced vāda granthas.
-
-[ka]: syllabus/kailash
 
 # youtube talks (sanskrit)
 
