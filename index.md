@@ -7,8 +7,8 @@ title: vedānta
 
 # vedānta
 
-The traditional study of vedānta -- through shastra -- is summarized below.
-See [here](pages/approach) for some additional details and resources.
+The traditional study of vedānta -- through shastra -- is summarized below.  
+A few more details and resources [can be found here](pages/approach).
 
 #### First, the basics
 
