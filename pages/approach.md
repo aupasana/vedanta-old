@@ -41,17 +41,11 @@ And this is followed by a study of the advanced vada granthas.
 This traditional structured approach has continued unbroken for many centuries. 
 Many of these recordings are now available online. Some of these are given below:
 
-1. [audio classes by Dravidacharya Sri Ramakrishnan Swamiji of the entire syllabus, in English][sn]
-2. [audio classes by swami shanti dharmananda, in Hindi][sd]
-
-[sn]: http://shastranethralaya.org/discourse/?lang=english
-[sd]: https://www.youtube.com/channel/UCb9b-V_mNkBL2PcrWaCDN3A/playlists
-
-In addition to this, some new youtube channels are particularly useful.
-
-- [video classes by Sw. Brahmanand Giri, in Hindi][br] (including tattva bodha, tarka sangraha with commentaries, artha sangraha and the bhagavad gita bhashya)
-- [video classes by Sw. Vijayananda Puri, in Hindi][vi] (including the vedanta paribhasha, ongoing classes of the upanishad bhashyas with tika, and prakarana granthas)
-- [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in English][sls]
+1. [video classes by Sw. Brahmanand Giri, in Hindi][br]  
+   tattva bodha, tarka sangraha with padakritya and nyaya bodhini, artha sangraha and bhagavad gita bhashya
+3. [video classes by Sw. Vijayananda Puri, in Hindi][vi]  
+   vedanta paribhasha, upanishad bhashyas with tika (ongoing) and prakarana granthas with tika (ongoing)
+5. [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in Sanskrit][sls]
 
 [br]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA
 [vi]: https://www.youtube.com/channel/UCPqECyffnKOhuYV-1GwAdkg
