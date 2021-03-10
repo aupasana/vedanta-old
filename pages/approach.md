@@ -18,18 +18,17 @@ the mahakavyas, and grammatical texts such as the laghu siddhanta kaumudi is nec
 
 ### 2. Vedanta basics
 
-With a basic grasp of Sanskrit, study and memorize the tattva bodha. 
-Optionally study prakaranas such as the vedanta sara.
+With a basic grasp of Sanskrit, study the tattva bodha and a few prakarana granthas.
 
 ### 3. Shastra
 
-Before studying the prasthana traya, study the essentials of tarka, mimamsa and vedanta in a
+Before the prasthana traya, study the essentials of tarka, mimamsa and vedanta in a
 structured way. 
 
-1. Tarka -- Study tarka sangraha with the padakritya, and then again with the nyaya bodhini.
-2. Mimamsa -- Study the artha sangraha and/or the mimamsa nyaya prakasha.
-3. Vedanta (pramana) -- Study the vedanta paribhasha.
-4. Vedanta (prameya) -- Study the siddhanta lesha sangraha.
+1. Tarka -- Study tarka sangraha with the padakritya, and then again with the nyaya bodhini
+2. Mimamsa -- Study the artha sangraha and/or the mimamsa nyaya prakasha
+3. Vedanta (pramana) -- Study the vedanta paribhasha
+4. Vedanta (prameya) -- Study the siddhanta lesha sangraha
 
 ### 4. Prasthana Traya etc
 
@@ -39,7 +38,7 @@ And this is followed by a study of the advanced vada granthas.
 # Resources
 
 This traditional structured approach has continued unbroken for many centuries. 
-Many of these recordings are now available online. Some of these are given below:
+Many video class recordings are now available online. Some of these are given below:
 
 1. [video classes by Sw. Brahmanand Giri, in Hindi][br]  
    tattva bodha, tarka sangraha (padakritya, nyaya bodhini), artha sangraha, gita bhashya
