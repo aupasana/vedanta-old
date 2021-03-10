@@ -42,9 +42,9 @@ This traditional structured approach has continued unbroken for many centuries.
 Many of these recordings are now available online. Some of these are given below:
 
 1. [video classes by Sw. Brahmanand Giri, in Hindi][br]  
-   tattva bodha, tarka sangraha with padakritya and nyaya bodhini, artha sangraha and bhagavad gita bhashya
+   tattva bodha, tarka sangraha (padakritya, nyaya bodhini), artha sangraha, gita bhashya
 3. [video classes by Sw. Vijayananda Puri, in Hindi][vi]  
-   vedanta paribhasha, upanishad bhashyas with tika (ongoing) and prakarana granthas with tika (ongoing)
+   vedanta paribhasha, upanishad bhashyas (ongoing), prakarana granthas (ongoing)
 5. [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in Sanskrit][sls]
 
 [br]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA
