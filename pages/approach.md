@@ -42,11 +42,17 @@ Many video class recordings are now available online. Some of these are given be
 
 1. [video classes by Sw. Brahmanand Giri, in Hindi][br]  
    tattva bodha, tarka sangraha (padakritya, nyaya bodhini), artha sangraha, gita bhashya
-3. [video classes by Sw. Vijayananda Puri, in Hindi][vi]  
+2. [video classes by Sw. Vijayananda Puri, in Hindi][vi]  
    vedanta paribhasha, upanishad bhashyas (ongoing), prakarana granthas (ongoing)
-5. [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in Sanskrit][sls]
+3. [video classes of the Sadhana Sadan Ashram, in Hindi][ssa]  
+   upanishad bhashyas (isha, kena, katha, aitareya, taittiriya), brahma sutra bhashya (ongoing)
+4. [video classes of the Prempuri Ashram, in Hindi][pp]
+   ongoning classes on various texts including prasthana traya and prakarana granthas
+6. [video classes of the Siddhanta Lesa Sangraha by Sri Kutumba Shastry, in Sanskrit][sls]
+
 
 [br]: https://www.youtube.com/channel/UC7ahgOP9X8riUl39nxgixFA
 [vi]: https://www.youtube.com/channel/UCPqECyffnKOhuYV-1GwAdkg
 [sls]: https://www.youtube.com/playlist?list=PLQ13UlUaFSQRpOArUTwaGmO3g6_LDdE0x
-
+[ssa]: https://www.youtube.com/channel/UCVBRpMGGXxAKgm3UxzCcpHQ/playlists
+[pp]: https://www.youtube.com/c/PrempuriAshramMumbai/playlists
