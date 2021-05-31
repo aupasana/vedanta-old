@@ -56,3 +56,6 @@ Many video class recordings are now available online. Some of these are given be
 [sls]: https://www.youtube.com/playlist?list=PLQ13UlUaFSQRpOArUTwaGmO3g6_LDdE0x
 [ssa]: https://www.youtube.com/channel/UCVBRpMGGXxAKgm3UxzCcpHQ/playlists
 [pp]: https://www.youtube.com/c/PrempuriAshramMumbai/playlists
+
+
+Note: A detailed list of classes available on youtube can be [found here](/pages/class_links)
