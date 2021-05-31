@@ -58,4 +58,4 @@ Many video class recordings are now available online. Some of these are given be
 [pp]: https://www.youtube.com/c/PrempuriAshramMumbai/playlists
 
 
-Note: A detailed list of classes available on youtube can be [found here](/pages/class_links)
+Note: A detailed list of classes available on youtube can be [found here](/vedanta/pages/class_links)
