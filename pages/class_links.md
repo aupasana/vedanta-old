@@ -58,6 +58,7 @@ title: links
 
 - ishavasya upanishad (with shankara bhashya)
   - [hindi classes by swami brahmananda giri][iu-sb]
+  - [hindi classes by swami vishvatmananda puri][iu-visp]
   - [with tika. hindi classes by swami vijayananda puri][iu-vp]
 - kena upanishad (with shankara bhashya)
   - [hindi classes by swami brahmananda giri][keu-sb]
@@ -70,9 +71,17 @@ title: links
 
 
 [iu-sb]: https://www.youtube.com/playlist?list=PLtDshib-NjgYJpRPXFB8PAWu3G3P9uVaI
+[iu-visp]: https://www.youtube.com/playlist?list=PLO8ASgp42rbaczp8dtoYsekJr6GfCxVjE
 [iu-vp]: https://www.youtube.com/playlist?list=PLO4NAhrjPr2986DoamsLQJx1ElNErjVvH
 [keu-sb]: https://www.youtube.com/playlist?list=PLtDshib-NjgZzhw30C6rzVGuW6T4ikc8l
 [keu-vp]: https://www.youtube.com/playlist?list=PLO4NAhrjPr29TQKSshOvhkGMj-heg2Gki
 [kau-sb]: https://www.youtube.com/playlist?list=PLtDshib-NjgbrveE7ial9aohEwj4Yrgml
 [kau-vp]: https://www.youtube.com/playlist?list=PLO4NAhrjPr2-BtgJHUb43h_M1OhDYuIGv
 [pu-vp]: https://www.youtube.com/playlist?list=PLO4NAhrjPr2_fRqAfVcEFZjc3g_3uBZiW
+
+# Brahma sutras
+
+- brahma sutras with bhashya
+  - [with ratnaprabha. hindi classes by swami vishvatmananda puri][bs-visp]
+
+[bs-visp]: https://www.youtube.com/playlist?list=PLO8ASgp42rbag9aGe8PVmWnXJe8R_FM0e
